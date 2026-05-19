@@ -1,0 +1,424 @@
+Pathogen,Specimen,Location,Antibiotic,Resistance_Percentage
+Staphylococcus aureus,Blood,OPD,Vancomycin,0.0
+Staphylococcus aureus,Blood,IPD,Vancomycin,0.0
+Staphylococcus aureus,Blood,ICU,Vancomycin,0.0
+Staphylococcus aureus,Blood,OPD,Doxycycline,0.0
+Staphylococcus aureus,Blood,IPD,Doxycycline,5.2
+Staphylococcus aureus,Blood,ICU,Doxycycline,1.4
+Staphylococcus aureus,Blood,OPD,Teicoplanin,0.0
+Staphylococcus aureus,Blood,IPD,Teicoplanin,1.4
+Staphylococcus aureus,Blood,ICU,Teicoplanin,0.0
+Staphylococcus aureus,Blood,OPD,Linezolid,0.0
+Staphylococcus aureus,Blood,IPD,Linezolid,0.0
+Staphylococcus aureus,Blood,ICU,Linezolid,0.0
+Staphylococcus aureus,Blood,OPD,Erythromycin,58.7
+Staphylococcus aureus,Blood,IPD,Erythromycin,65.9
+Staphylococcus aureus,Blood,ICU,Erythromycin,62.7
+Staphylococcus aureus,Blood,OPD,Clindamycin,29.3
+Staphylococcus aureus,Blood,IPD,Clindamycin,25.5
+Staphylococcus aureus,Blood,ICU,Clindamycin,28.1
+Staphylococcus aureus,Blood,OPD,Trimethoprim/Sulfamethoxazole,6.7
+Staphylococcus aureus,Blood,IPD,Trimethoprim/Sulfamethoxazole,16.2
+Staphylococcus aureus,Blood,ICU,Trimethoprim/Sulfamethoxazole,13.3
+Staphylococcus aureus,Blood,OPD,Ciprofloxacin,56.4
+Staphylococcus aureus,Blood,IPD,Ciprofloxacin,44.1
+Staphylococcus aureus,Blood,ICU,Ciprofloxacin,46.6
+Staphylococcus aureus,Blood,OPD,Gentamicin,15.0
+Staphylococcus aureus,Blood,IPD,Gentamicin,19.0
+Staphylococcus aureus,Blood,ICU,Gentamicin,18.8
+Staphylococcus aureus,Blood,OPD,Amikacin,5.3
+Staphylococcus aureus,Blood,IPD,Amikacin,10.2
+Staphylococcus aureus,Blood,ICU,Amikacin,0.0
+Staphylococcus aureus,Blood,OPD,Cefoxitin,39.4
+Staphylococcus aureus,Blood,IPD,Cefoxitin,33.8
+Staphylococcus aureus,Blood,ICU,Cefoxitin,31.1
+Staphylococcus aureus,Pus Aspirate,All,Cefoxitin,29.0
+Staphylococcus aureus,Pus Aspirate,All,Gentamicin,13.0
+Staphylococcus aureus,Pus Aspirate,All,Ciprofloxacin,47.0
+Staphylococcus aureus,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,8.0
+Staphylococcus aureus,Pus Aspirate,All,Clindamycin,18.0
+Staphylococcus aureus,Pus Aspirate,All,Erythromycin,53.0
+Staphylococcus aureus,Pus Aspirate,All,Linezolid,0.0
+Staphylococcus aureus,Pus Aspirate,All,Teicoplanin,1.0
+Staphylococcus aureus,Pus Aspirate,All,Doxycycline,1.0
+Staphylococcus aureus,Pus Aspirate,All,Vancomycin,0.0
+Staphylococcus aureus,OSBF,All,Cefoxitin,33.0
+Staphylococcus aureus,OSBF,All,Gentamicin,23.0
+Staphylococcus aureus,OSBF,All,Ciprofloxacin,45.0
+Staphylococcus aureus,OSBF,All,Trimethoprim/Sulfamethoxazole,5.0
+Staphylococcus aureus,OSBF,All,Clindamycin,26.0
+Staphylococcus aureus,OSBF,All,Erythromycin,61.0
+Staphylococcus aureus,OSBF,All,Linezolid,0.0
+Staphylococcus aureus,OSBF,All,Teicoplanin,N/A
+Staphylococcus aureus,OSBF,All,Doxycycline,N/A
+Staphylococcus aureus,OSBF,All,Vancomycin,0.0
+Enterococcus species,Blood,OPD,Doxycycline,30.0
+Enterococcus species,Blood,IPD,Doxycycline,42.1
+Enterococcus species,Blood,ICU,Doxycycline,52.4
+Enterococcus species,Blood,OPD,Teicoplanin,0.0
+Enterococcus species,Blood,IPD,Teicoplanin,7.5
+Enterococcus species,Blood,ICU,Teicoplanin,3.1
+Enterococcus species,Blood,OPD,Vancomycin,0.0
+Enterococcus species,Blood,IPD,Vancomycin,4.6
+Enterococcus species,Blood,ICU,Vancomycin,1.8
+Enterococcus species,Blood,OPD,Linezolid,0.0
+Enterococcus species,Blood,IPD,Linezolid,0.0
+Enterococcus species,Blood,ICU,Linezolid,0.0
+Enterococcus species,Blood,OPD,Erythromycin,71.4
+Enterococcus species,Blood,IPD,Erythromycin,81.2
+Enterococcus species,Blood,ICU,Erythromycin,76.9
+Enterococcus species,Blood,OPD,Gentamicin-High,30.0
+Enterococcus species,Blood,IPD,Gentamicin-High,27.7
+Enterococcus species,Blood,ICU,Gentamicin-High,32.0
+Enterococcus species,Blood,OPD,Ampicillin,20.0
+Enterococcus species,Blood,IPD,Ampicillin,36.5
+Enterococcus species,Blood,ICU,Ampicillin,41.6
+Enterococcus species,Pus Aspirate,All,Ampicillin,19.0
+Enterococcus species,Pus Aspirate,All,Gentamicin-HLAR,22.0
+Enterococcus species,Pus Aspirate,All,Erythromycin,72.0
+Enterococcus species,Pus Aspirate,All,Linezolid,0.1
+Enterococcus species,Pus Aspirate,All,Vancomycin,1.0
+Enterococcus species,Pus Aspirate,All,Teicoplanin,2.0
+Enterococcus species,Pus Aspirate,All,Doxycycline,23.0
+Enterococcus species,Pus Aspirate,All,Tetracycline,74.0
+Enterococcus species,OSBF,All,Ampicillin,46.0
+Enterococcus species,OSBF,All,Gentamicin-HLAR,33.0
+Enterococcus species,OSBF,All,Erythromycin,68.0
+Enterococcus species,OSBF,All,Linezolid,0.0
+Enterococcus species,OSBF,All,Vancomycin,0.0
+Enterococcus species,OSBF,All,Doxycycline,50.0
+Enterococcus species,Urine,All,Ampicillin,42.0
+Enterococcus species,Urine,All,Gentamicin-HLAR,35.0
+Enterococcus species,Urine,All,Ciprofloxacin,71.0
+Enterococcus species,Urine,All,Linezolid,0.1
+Enterococcus species,Urine,All,Vancomycin,2.0
+Enterococcus species,Urine,All,Teicoplanin,2.0
+Enterococcus species,Urine,All,Fosfomycin,28.0
+Enterococcus species,Urine,All,Tetracycline,70.0
+Enterococcus species,Urine,All,Nitrofurantoin,30.0
+Escherichia coli,Blood,OPD,Cefuroxime,66.7
+Escherichia coli,Blood,IPD,Cefuroxime,73.3
+Escherichia coli,Blood,ICU,Cefuroxime,71.2
+Escherichia coli,Blood,OPD,Colistin,0.0
+Escherichia coli,Blood,IPD,Colistin,0.0
+Escherichia coli,Blood,ICU,Colistin,0.5
+Escherichia coli,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.3
+Escherichia coli,Blood,IPD,Trimethoprim/Sulfamethoxazole,51.9
+Escherichia coli,Blood,ICU,Trimethoprim/Sulfamethoxazole,40.8
+Escherichia coli,Blood,OPD,Ciprofloxacin,53.8
+Escherichia coli,Blood,IPD,Ciprofloxacin,70.3
+Escherichia coli,Blood,ICU,Ciprofloxacin,62.6
+Escherichia coli,Blood,OPD,Gentamicin,24.6
+Escherichia coli,Blood,IPD,Gentamicin,31.4
+Escherichia coli,Blood,ICU,Gentamicin,27.6
+Escherichia coli,Blood,OPD,Amikacin,17.6
+Escherichia coli,Blood,IPD,Amikacin,15.9
+Escherichia coli,Blood,ICU,Amikacin,13.0
+Escherichia coli,Blood,OPD,Meropenem,8.3
+Escherichia coli,Blood,IPD,Meropenem,11.2
+Escherichia coli,Blood,ICU,Meropenem,11.3
+Escherichia coli,Blood,OPD,Imipenem,6.2
+Escherichia coli,Blood,IPD,Imipenem,11.7
+Escherichia coli,Blood,ICU,Imipenem,11.3
+Escherichia coli,Blood,OPD,Ertapenem,3.8
+Escherichia coli,Blood,IPD,Ertapenem,12.4
+Escherichia coli,Blood,ICU,Ertapenem,14.3
+Escherichia coli,Blood,OPD,Cefepime,50.0
+Escherichia coli,Blood,IPD,Cefepime,53.4
+Escherichia coli,Blood,ICU,Cefepime,54.6
+Escherichia coli,Blood,OPD,Cefotaxime,64.7
+Escherichia coli,Blood,IPD,Cefotaxime,69.2
+Escherichia coli,Blood,ICU,Cefotaxime,74.4
+Escherichia coli,Blood,OPD,Ceftriaxone,59.6
+Escherichia coli,Blood,IPD,Ceftriaxone,67.8
+Escherichia coli,Blood,ICU,Ceftriaxone,72.3
+Escherichia coli,Blood,OPD,Piperacillin/Tazobactam,14.9
+Escherichia coli,Blood,IPD,Piperacillin/Tazobactam,21.7
+Escherichia coli,Blood,ICU,Piperacillin/Tazobactam,20.5
+Escherichia coli,Blood,OPD,Amoxicillin/Clavulanic acid,29.2
+Escherichia coli,Blood,IPD,Amoxicillin/Clavulanic acid,32.7
+Escherichia coli,Blood,ICU,Amoxicillin/Clavulanic acid,34.8
+Escherichia coli,Blood,OPD,Ampicillin,75.7
+Escherichia coli,Blood,IPD,Ampicillin,86.6
+Escherichia coli,Blood,ICU,Ampicillin,95.8
+Escherichia coli,Pus Aspirate,All,Ampicillin,89.0
+Escherichia coli,Pus Aspirate,All,Amoxicillin/Clavulanic acid,38.0
+Escherichia coli,Pus Aspirate,All,Piperacillin/Tazobactam,21.0
+Escherichia coli,Pus Aspirate,All,Cefuroxime,68.0
+Escherichia coli,Pus Aspirate,All,Ceftriaxone,66.0
+Escherichia coli,Pus Aspirate,All,Cefotaxime,65.0
+Escherichia coli,Pus Aspirate,All,Cefepime,46.0
+Escherichia coli,Pus Aspirate,All,Ertapenem,12.0
+Escherichia coli,Pus Aspirate,All,Imipenem,11.0
+Escherichia coli,Pus Aspirate,All,Meropenem,9.0
+Escherichia coli,Pus Aspirate,All,Amikacin,16.0
+Escherichia coli,Pus Aspirate,All,Gentamicin,26.0
+Escherichia coli,Pus Aspirate,All,Ciprofloxacin,60.0
+Escherichia coli,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,44.0
+Escherichia coli,Pus Aspirate,All,Colistin,0.0
+Escherichia coli,Pus Aspirate,All,Doxycycline,27.0
+Escherichia coli,OSBF,All,Ampicillin,87.0
+Escherichia coli,OSBF,All,Amoxicillin/Clavulanic acid,37.0
+Escherichia coli,OSBF,All,Piperacillin/Tazobactam,25.0
+Escherichia coli,OSBF,All,Cefuroxime,64.0
+Escherichia coli,OSBF,All,Ceftriaxone,64.0
+Escherichia coli,OSBF,All,Cefotaxime,63.0
+Escherichia coli,OSBF,All,Cefepime,44.0
+Escherichia coli,OSBF,All,Ertapenem,21.0
+Escherichia coli,OSBF,All,Imipenem,20.0
+Escherichia coli,OSBF,All,Meropenem,16.0
+Escherichia coli,OSBF,All,Amikacin,19.0
+Escherichia coli,OSBF,All,Gentamicin,31.0
+Escherichia coli,OSBF,All,Ciprofloxacin,62.0
+Escherichia coli,OSBF,All,Trimethoprim/Sulfamethoxazole,39.0
+Escherichia coli,OSBF,All,Colistin,0.0
+Escherichia coli,Urine,All,Ampicillin,85.0
+Escherichia coli,Urine,All,Amoxicillin/Clavulanic acid,28.0
+Escherichia coli,Urine,All,Piperacillin/Tazobactam,15.0
+Escherichia coli,Urine,All,Cefuroxime,61.0
+Escherichia coli,Urine,All,Ceftriaxone,64.0
+Escherichia coli,Urine,All,Cefotaxime,61.0
+Escherichia coli,Urine,All,Cefepime,45.0
+Escherichia coli,Urine,All,Ertapenem,6.0
+Escherichia coli,Urine,All,Imipenem,7.0
+Escherichia coli,Urine,All,Meropenem,6.0
+Escherichia coli,Urine,All,Amikacin,12.0
+Escherichia coli,Urine,All,Gentamicin,20.0
+Escherichia coli,Urine,All,Ciprofloxacin,54.0
+Escherichia coli,Urine,All,Trimethoprim/Sulfamethoxazole,39.0
+Escherichia coli,Urine,All,Colistin,0.04
+Escherichia coli,Urine,All,Fosfomycin,2.0
+Escherichia coli,Urine,All,Nitrofurantoin,10.0
+Klebsiella species,Blood,OPD,Cefuroxime,50.0
+Klebsiella species,Blood,IPD,Cefuroxime,63.8
+Klebsiella species,Blood,ICU,Cefuroxime,78.5
+Klebsiella species,Blood,OPD,Doxycycline,7.4
+Klebsiella species,Blood,IPD,Doxycycline,18.8
+Klebsiella species,Blood,ICU,Doxycycline,23.1
+Klebsiella species,Blood,OPD,Colistin,0.0
+Klebsiella species,Blood,IPD,Colistin,1.9
+Klebsiella species,Blood,ICU,Colistin,2.4
+Klebsiella species,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.5
+Klebsiella species,Blood,IPD,Trimethoprim/Sulfamethoxazole,48.4
+Klebsiella species,Blood,ICU,Trimethoprim/Sulfamethoxazole,61.4
+Klebsiella species,Blood,OPD,Ciprofloxacin,44.0
+Klebsiella species,Blood,IPD,Ciprofloxacin,66.0
+Klebsiella species,Blood,ICU,Ciprofloxacin,71.5
+Klebsiella species,Blood,OPD,Gentamicin,32.1
+Klebsiella species,Blood,IPD,Gentamicin,47.3
+Klebsiella species,Blood,ICU,Gentamicin,54.9
+Klebsiella species,Blood,OPD,Amikacin,28.9
+Klebsiella species,Blood,IPD,Amikacin,42.8
+Klebsiella species,Blood,ICU,Amikacin,56.4
+Klebsiella species,Blood,OPD,Meropenem,27.0
+Klebsiella species,Blood,IPD,Meropenem,40.8
+Klebsiella species,Blood,ICU,Meropenem,48.7
+Klebsiella species,Blood,OPD,Imipenem,26.4
+Klebsiella species,Blood,IPD,Imipenem,37.8
+Klebsiella species,Blood,ICU,Imipenem,47.5
+Klebsiella species,Blood,OPD,Ertapenem,29.6
+Klebsiella species,Blood,IPD,Ertapenem,38.2
+Klebsiella species,Blood,ICU,Ertapenem,50.0
+Klebsiella species,Blood,OPD,Cefepime,40.3
+Klebsiella species,Blood,IPD,Cefepime,58.5
+Klebsiella species,Blood,ICU,Cefepime,76.2
+Klebsiella species,Blood,OPD,Cefotaxime,46.7
+Klebsiella species,Blood,IPD,Cefotaxime,71.7
+Klebsiella species,Blood,ICU,Cefotaxime,79.3
+Klebsiella species,Blood,OPD,Ceftriaxone,46.0
+Klebsiella species,Blood,IPD,Ceftriaxone,63.8
+Klebsiella species,Blood,ICU,Ceftriaxone,77.7
+Klebsiella species,Blood,OPD,Piperacillin/Tazobactam,34.6
+Klebsiella species,Blood,IPD,Piperacillin/Tazobactam,55.1
+Klebsiella species,Blood,ICU,Piperacillin/Tazobactam,62.5
+Klebsiella species,Blood,OPD,Amoxicillin/Clavulanic acid,40.0
+Klebsiella species,Blood,IPD,Amoxicillin/Clavulanic acid,46.5
+Klebsiella species,Blood,ICU,Amoxicillin/Clavulanic acid,64.5
+Klebsiella species,Pus Aspirate,All,Amoxicillin/Clavulanic acid,52.0
+Klebsiella species,Pus Aspirate,All,Piperacillin/Tazobactam,45.0
+Klebsiella species,Pus Aspirate,All,Cefuroxime,67.0
+Klebsiella species,Pus Aspirate,All,Ceftriaxone,62.0
+Klebsiella species,Pus Aspirate,All,Cefotaxime,64.0
+Klebsiella species,Pus Aspirate,All,Cefepime,56.0
+Klebsiella species,Pus Aspirate,All,Ertapenem,38.0
+Klebsiella species,Pus Aspirate,All,Imipenem,35.0
+Klebsiella species,Pus Aspirate,All,Meropenem,41.0
+Klebsiella species,Pus Aspirate,All,Amikacin,36.0
+Klebsiella species,Pus Aspirate,All,Gentamicin,41.0
+Klebsiella species,Pus Aspirate,All,Ciprofloxacin,62.0
+Klebsiella species,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,49.0
+Klebsiella species,Pus Aspirate,All,Colistin,0.24
+Klebsiella species,Pus Aspirate,All,Doxycycline,18.0
+Klebsiella species,OSBF,All,Amoxicillin/Clavulanic acid,38.0
+Klebsiella species,OSBF,All,Piperacillin/Tazobactam,48.0
+Klebsiella species,OSBF,All,Cefuroxime,71.0
+Klebsiella species,OSBF,All,Ceftriaxone,64.0
+Klebsiella species,OSBF,All,Cefotaxime,66.0
+Klebsiella species,OSBF,All,Cefepime,53.0
+Klebsiella species,OSBF,All,Ertapenem,32.0
+Klebsiella species,OSBF,All,Imipenem,41.0
+Klebsiella species,OSBF,All,Meropenem,38.0
+Klebsiella species,OSBF,All,Amikacin,33.0
+Klebsiella species,OSBF,All,Gentamicin,40.0
+Klebsiella species,OSBF,All,Ciprofloxacin,58.0
+Klebsiella species,OSBF,All,Trimethoprim/Sulfamethoxazole,48.0
+Klebsiella species,OSBF,All,Colistin,0.68
+Klebsiella species,Urine,All,Amoxicillin/Clavulanic acid,40.0
+Klebsiella species,Urine,All,Piperacillin/Tazobactam,35.0
+Klebsiella species,Urine,All,Cefuroxime,57.0
+Klebsiella species,Urine,All,Ceftriaxone,55.0
+Klebsiella species,Urine,All,Cefotaxime,56.0
+Klebsiella species,Urine,All,Cefepime,45.0
+Klebsiella species,Urine,All,Ertapenem,24.0
+Klebsiella species,Urine,All,Imipenem,23.0
+Klebsiella species,Urine,All,Meropenem,24.0
+Klebsiella species,Urine,All,Amikacin,28.0
+Klebsiella species,Urine,All,Gentamicin,29.0
+Klebsiella species,Urine,All,Ciprofloxacin,53.0
+Klebsiella species,Urine,All,Trimethoprim/Sulfamethoxazole,41.0
+Klebsiella species,Urine,All,Colistin,0.32
+Klebsiella species,Urine,All,Nitrofurantoin,47.0
+Salmonella Typhi,All,All,Ampicillin,3.0
+Salmonella Typhi,All,All,Ceftriaxone,0.0
+Salmonella Typhi,All,All,Imipenem,0.0
+Salmonella Typhi,All,All,Ciprofloxacin,61.0
+Salmonella Typhi,All,All,Azithromycin,0.0
+Salmonella Typhi,All,All,Chloramphenicol,0.0
+Salmonella Typhi,All,All,Trimethoprim/Sulfamethoxazole,0.0
+Salmonella Paratyphi,All,All,Ampicillin,N/A
+Salmonella Paratyphi,All,All,Ceftriaxone,N/A
+Salmonella Paratyphi,All,All,Imipenem,N/A
+Salmonella Paratyphi,All,All,Ciprofloxacin,N/A
+Salmonella Paratyphi,All,All,Azithromycin,N/A
+Salmonella Paratyphi,All,All,Chloramphenicol,N/A
+Salmonella Paratyphi,All,All,Trimethoprim/Sulfamethoxazole,0.0
+Shigella species,All,All,Ampicillin,42.0
+Shigella species,All,All,Ceftriaxone,N/A
+Shigella species,All,All,Ciprofloxacin,91.0
+Shigella species,All,All,Azithromycin,25.0
+Shigella species,All,All,Chloramphenicol,N/A
+Shigella species,All,All,Trimethoprim/Sulfamethoxazole,25.0
+Pseudomonas species,Blood,OPD,Colistin,0.0
+Pseudomonas species,Blood,IPD,Colistin,0.0
+Pseudomonas species,Blood,ICU,Colistin,0.0
+Pseudomonas species,Blood,OPD,Ciprofloxacin,7.1
+Pseudomonas species,Blood,IPD,Ciprofloxacin,21.5
+Pseudomonas species,Blood,ICU,Ciprofloxacin,40.6
+Pseudomonas species,Blood,OPD,Gentamicin,11.1
+Pseudomonas species,Blood,IPD,Gentamicin,24.8
+Pseudomonas species,Blood,ICU,Gentamicin,41.5
+Pseudomonas species,Blood,OPD,Amikacin,7.9
+Pseudomonas species,Blood,IPD,Amikacin,23.1
+Pseudomonas species,Blood,ICU,Amikacin,25.8
+Pseudomonas species,Blood,OPD,Meropenem,6.1
+Pseudomonas species,Blood,IPD,Meropenem,19.2
+Pseudomonas species,Blood,ICU,Meropenem,27.4
+Pseudomonas species,Blood,OPD,Imipenem,5.9
+Pseudomonas species,Blood,IPD,Imipenem,18.3
+Pseudomonas species,Blood,ICU,Imipenem,27.9
+Pseudomonas species,Blood,OPD,Aztreonam,0.0
+Pseudomonas species,Blood,IPD,Aztreonam,24.0
+Pseudomonas species,Blood,ICU,Aztreonam,31.6
+Pseudomonas species,Blood,OPD,Ceftazidime,16.7
+Pseudomonas species,Blood,IPD,Ceftazidime,29.8
+Pseudomonas species,Blood,ICU,Ceftazidime,46.2
+Pseudomonas species,Blood,OPD,Piperacillin/Tazobactam,12.2
+Pseudomonas species,Blood,IPD,Piperacillin/Tazobactam,16.0
+Pseudomonas species,Blood,ICU,Piperacillin/Tazobactam,34.2
+Pseudomonas species,Pus Aspirate,All,Piperacillin/Tazobactam,22.0
+Pseudomonas species,Pus Aspirate,All,Ceftazidime,33.0
+Pseudomonas species,Pus Aspirate,All,Aztreonam,20.0
+Pseudomonas species,Pus Aspirate,All,Imipenem,15.0
+Pseudomonas species,Pus Aspirate,All,Meropenem,13.0
+Pseudomonas species,Pus Aspirate,All,Amikacin,18.0
+Pseudomonas species,Pus Aspirate,All,Gentamicin,23.0
+Pseudomonas species,Pus Aspirate,All,Ciprofloxacin,29.0
+Pseudomonas species,Pus Aspirate,All,Colistin,0.4
+Pseudomonas species,Pus Aspirate,All,Netilmicin,24.0
+Pseudomonas species,OSBF,All,Piperacillin/Tazobactam,32.0
+Pseudomonas species,OSBF,All,Ceftazidime,38.0
+Pseudomonas species,OSBF,All,Aztreonam,27.0
+Pseudomonas species,OSBF,All,Imipenem,41.0
+Pseudomonas species,OSBF,All,Meropenem,28.0
+Pseudomonas species,OSBF,All,Amikacin,24.0
+Pseudomonas species,OSBF,All,Gentamicin,25.0
+Pseudomonas species,OSBF,All,Ciprofloxacin,32.0
+Pseudomonas species,OSBF,All,Colistin,0.0
+Pseudomonas species,OSBF,All,Netilmicin,N/A
+Pseudomonas species,Urine,All,Piperacillin/Tazobactam,26.0
+Pseudomonas species,Urine,All,Ceftazidime,38.0
+Pseudomonas species,Urine,All,Aztreonam,33.0
+Pseudomonas species,Urine,All,Imipenem,29.0
+Pseudomonas species,Urine,All,Meropenem,26.0
+Pseudomonas species,Urine,All,Amikacin,26.0
+Pseudomonas species,Urine,All,Gentamicin,27.0
+Pseudomonas species,Urine,All,Ciprofloxacin,33.0
+Pseudomonas species,Urine,All,Colistin,0.24
+Pseudomonas species,Urine,All,Netilmicin,41.0
+Acinetobacter species,Blood,OPD,Minocycline,27.6
+Acinetobacter species,Blood,IPD,Minocycline,17.6
+Acinetobacter species,Blood,ICU,Minocycline,48.2
+Acinetobacter species,Blood,OPD,Colistin,0.0
+Acinetobacter species,Blood,IPD,Colistin,0.8
+Acinetobacter species,Blood,ICU,Colistin,0.0
+Acinetobacter species,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.1
+Acinetobacter species,Blood,IPD,Trimethoprim/Sulfamethoxazole,36.5
+Acinetobacter species,Blood,ICU,Trimethoprim/Sulfamethoxazole,65.2
+Acinetobacter species,Blood,OPD,Ciprofloxacin,42.4
+Acinetobacter species,Blood,IPD,Ciprofloxacin,36.8
+Acinetobacter species,Blood,ICU,Ciprofloxacin,71.7
+Acinetobacter species,Blood,OPD,Gentamicin,39.3
+Acinetobacter species,Blood,IPD,Gentamicin,39.2
+Acinetobacter species,Blood,ICU,Gentamicin,69.2
+Acinetobacter species,Blood,OPD,Amikacin,33.3
+Acinetobacter species,Blood,IPD,Amikacin,38.7
+Acinetobacter species,Blood,ICU,Amikacin,64.6
+Acinetobacter species,Blood,OPD,Meropenem,47.1
+Acinetobacter species,Blood,IPD,Meropenem,41.3
+Acinetobacter species,Blood,ICU,Meropenem,68.5
+Acinetobacter species,Blood,OPD,Imipenem,48.1
+Acinetobacter species,Blood,IPD,Imipenem,46.2
+Acinetobacter species,Blood,ICU,Imipenem,78.6
+Acinetobacter species,Blood,OPD,Ceftazidime,58.3
+Acinetobacter species,Blood,IPD,Ceftazidime,51.8
+Acinetobacter species,Blood,ICU,Ceftazidime,78.9
+Acinetobacter species,Blood,OPD,Piperacillin/Tazobactam,43.3
+Acinetobacter species,Blood,IPD,Piperacillin/Tazobactam,44.2
+Acinetobacter species,Blood,ICU,Piperacillin/Tazobactam,72.8
+Acinetobacter species,Blood,OPD,Ampicillin/Sulbactam,41.7
+Acinetobacter species,Blood,IPD,Ampicillin/Sulbactam,27.5
+Acinetobacter species,Blood,ICU,Ampicillin/Sulbactam,61.9
+Acinetobacter species,Pus Aspirate,All,Ampicillin/Sulbactam,54.0
+Acinetobacter species,Pus Aspirate,All,Piperacillin/Tazobactam,71.0
+Acinetobacter species,Pus Aspirate,All,Ceftazidime,75.0
+Acinetobacter species,Pus Aspirate,All,Imipenem,67.0
+Acinetobacter species,Pus Aspirate,All,Meropenem,64.0
+Acinetobacter species,Pus Aspirate,All,Amikacin,60.0
+Acinetobacter species,Pus Aspirate,All,Gentamicin,67.0
+Acinetobacter species,Pus Aspirate,All,Ciprofloxacin,74.0
+Acinetobacter species,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,60.0
+Acinetobacter species,Pus Aspirate,All,Colistin,0.24
+Acinetobacter species,Pus Aspirate,All,Minocycline,40.0
+Acinetobacter species,Pus Aspirate,All,Tetracycline,25.0
+Acinetobacter species,OSBF,All,Ampicillin/Sulbactam,41.0
+Acinetobacter species,OSBF,All,Piperacillin/Tazobactam,67.0
+Acinetobacter species,OSBF,All,Ceftazidime,67.0
+Acinetobacter species,OSBF,All,Imipenem,76.0
+Acinetobacter species,OSBF,All,Meropenem,69.0
+Acinetobacter species,OSBF,All,Amikacin,57.0
+Acinetobacter species,OSBF,All,Gentamicin,66.0
+Acinetobacter species,OSBF,All,Ciprofloxacin,65.0
+Acinetobacter species,OSBF,All,Trimethoprim/Sulfamethoxazole,54.0
+Acinetobacter species,OSBF,All,Colistin,1.0
+Acinetobacter species,OSBF,All,Minocycline,26.0
+Acinetobacter species,Urine,All,Ampicillin/Sulbactam,28.0
+Acinetobacter species,Urine,All,Piperacillin/Tazobactam,33.0
+Acinetobacter species,Urine,All,Ceftazidime,46.0
+Acinetobacter species,Urine,All,Imipenem,34.0
+Acinetobacter species,Urine,All,Meropenem,32.0
+Acinetobacter species,Urine,All,Amikacin,28.0
+Acinetobacter species,Urine,All,Gentamicin,30.0
+Acinetobacter species,Urine,All,Ciprofloxacin,35.0
+Acinetobacter species,Urine,All,Trimethoprim/Sulfamethoxazole,24.0
+Acinetobacter species,Urine,All,Colistin,0.0
+Acinetobacter species,Urine,All,Minocycline,9.0
