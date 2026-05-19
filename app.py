@@ -51,6 +51,13 @@ def get_general_report(pathogen: str) -> str:
     # Return all rows for this pathogen
     return filtered.to_json(orient="records")
 
+def get_all_antibiotics() -> str:
+    """Returns a list of all unique antibiotics tracked in the AMR database."""
+    antibiotics = df['Antibiotic'].unique().tolist()
+    # Sort them alphabetically so it looks clean in the chat
+    antibiotics.sort()
+    return json.dumps({"available_antibiotics": antibiotics})
+
 # --- API Setup ---
 # We use Streamlit Secrets to safely store your API key so your instructor/public can't steal it
 api_key = st.secrets["GEMINI_API_KEY"]
@@ -60,14 +67,15 @@ genai.configure(api_key=api_key)
 if "chat_session" not in st.session_state:
     model = genai.GenerativeModel(
         model_name='gemini-2.5-flash',
-        # Give the LLM access to all three tools
-        tools=[get_best_antibiotic, get_all_pathogens, get_general_report], 
+        # Include all 4 tools in the array now
+        tools=[get_best_antibiotic, get_all_pathogens, get_general_report, get_all_antibiotics], 
         system_instruction=(
             "You are a highly capable clinical assistant analyzing the 2023 Kerala AMR Surveillance Network Data. "
-            "You have three tools at your disposal: "
-            "1. Use 'get_all_pathogens' if the user asks what bacteria are tracked or wants a list. "
-            "2. Use 'get_general_report' if the user asks for a general overview or full report of a specific pathogen without specifying a location/specimen. "
-            "3. Use 'get_best_antibiotic' ONLY if the user asks for the best treatment and provides a pathogen, specimen, and location. "
+            "You have four tools at your disposal: "
+            "1. Use 'get_all_pathogens' if the user wants a list of bacteria tracked in the database. "
+            "2. Use 'get_all_antibiotics' if the user asks what antibiotics are present or tracked. "
+            "3. Use 'get_general_report' if the user asks for a general overview or full report of a specific pathogen without specifying a location/specimen. "
+            "4. Use 'get_best_antibiotic' ONLY if the user asks for the best treatment and provides a pathogen, specimen, and location. "
             "If the user asks a broad question, use the appropriate tool, read the JSON data, and summarize it beautifully using bullet points or markdown tables. "
             "Always be professional and clearly state resistance percentages."
         )
