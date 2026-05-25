@@ -58,6 +58,37 @@ def get_all_antibiotics() -> str:
     antibiotics.sort()
     return json.dumps({"available_antibiotics": antibiotics})
 
+def calculate_average_resistance(pathogen: str, specimen: str, antibiotic: str) -> str:
+    """Calculates the mathematical average (mean) resistance percentage of a specific antibiotic 
+    against a pathogen for a given specimen across all reported locations (ICU, IPD, OPD)."""
+    
+    # Filter for the pathogen, specimen, and antibiotic
+    filtered = df[
+        (df['Pathogen'].str.contains(pathogen, case=False, na=False)) & 
+        (df['Specimen'].str.contains(specimen, case=False, na=False)) &
+        (df['Antibiotic'].str.contains(antibiotic, case=False, na=False))
+    ]
+    
+    # Drop rows where data is N/A or missing before doing math
+    filtered = filtered.dropna(subset=['Resistance_Percentage'])
+    
+    if filtered.empty:
+        return json.dumps({"error": f"No valid numerical data found to compute an average for {pathogen} against {antibiotic}."})
+    
+    # Calculate the average resistance
+    avg_resistance = filtered['Resistance_Percentage'].mean()
+    
+    # Collect individual values to show the breakdown in the response
+    breakdown = filtered[['Location', 'Resistance_Percentage']].to_dict(orient="records")
+    
+    return json.dumps({
+        "pathogen": pathogen,
+        "specimen": specimen,
+        "antibiotic": antibiotic,
+        "average_resistance_percentage": round(avg_resistance, 2),
+        "breakdown": breakdown
+    })
+
 # --- API Setup ---
 # We use Streamlit Secrets to safely store your API key so your instructor/public can't steal it
 api_key = st.secrets["GEMINI_API_KEY"]
@@ -67,17 +98,18 @@ genai.configure(api_key=api_key)
 if "chat_session" not in st.session_state:
     model = genai.GenerativeModel(
         model_name='gemini-2.5-flash',
-        # Include all 4 tools in the array now
-        tools=[get_best_antibiotic, get_all_pathogens, get_general_report, get_all_antibiotics], 
+        # Include all 5 tools in the array now
+        tools=[get_best_antibiotic, get_all_pathogens, get_general_report, get_all_antibiotics, calculate_average_resistance], 
         system_instruction=(
-            "You are a highly capable clinical assistant analyzing the 2023 Kerala AMR Surveillance Network Data. "
-            "You have four tools at your disposal: "
+            "You are a highly capable clinical assistant analyzing the 2024 Kerala AMR Surveillance Network Data (2023 data cycle). "
+            "You have five tools at your disposal: "
             "1. Use 'get_all_pathogens' if the user wants a list of bacteria tracked in the database. "
             "2. Use 'get_all_antibiotics' if the user asks what antibiotics are present or tracked. "
             "3. Use 'get_general_report' if the user asks for a general overview or full report of a specific pathogen without specifying a location/specimen. "
-            "4. Use 'get_best_antibiotic' ONLY if the user asks for the best treatment and provides a pathogen, specimen, and location. "
-            "If the user asks a broad question, use the appropriate tool, read the JSON data, and summarize it beautifully using bullet points or markdown tables. "
-            "Always be professional and clearly state resistance percentages."
+            "4. Use 'calculate_average_resistance' if the user asks mathematical questions about the average, mean, or location breakdown of a specific drug against a specific bacteria. "
+            "5. Use 'get_best_antibiotic' ONLY if the user asks for the best treatment or lowest resistance profile and provides a pathogen, specimen, and location. "
+            "If the user asks an analytical or mathematical question, explain the math by showing the individual location breakdown alongside the calculated average. "
+            "Always be professional, concise, and clearly state resistance percentages."
         )
     )
     st.session_state.chat_session = model.start_chat(enable_automatic_function_calling=True)
