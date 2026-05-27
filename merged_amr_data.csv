@@ -1,0 +1,1977 @@
+Year,Pathogen,Specimen,Location,Antibiotic,Resistance_Percentage
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Cefoxitin (MRSA),20.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Amikacin,12.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Gentamicin,19.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Ciprofloxacin,43.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,TMP-SMX,17.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Clindamycin,19.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Erythromycin,54.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Linezolid,0.0
+2021,Staphylococcus aureus,Blood+PA+OSBF,Overall,Doxycycline,4.0
+2021,Staphylococcus aureus,Blood,Overall,Cefoxitin (MRSA),22.0
+2021,Staphylococcus aureus,Blood,Overall,Amikacin,4.0
+2021,Staphylococcus aureus,Blood,Overall,Gentamicin,18.0
+2021,Staphylococcus aureus,Blood,Overall,Ciprofloxacin,40.0
+2021,Staphylococcus aureus,Blood,Overall,TMP-SMX,21.0
+2021,Staphylococcus aureus,Blood,Overall,Clindamycin,26.0
+2021,Staphylococcus aureus,Blood,Overall,Erythromycin,64.0
+2021,Staphylococcus aureus,Blood,Overall,Linezolid,0.0
+2021,Staphylococcus aureus,Blood,Overall,Doxycycline,3.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Cefoxitin (MRSA),19.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Amikacin,13.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Gentamicin,19.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Ciprofloxacin,44.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,TMP-SMX,16.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Clindamycin,18.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Erythromycin,53.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Linezolid,0.0
+2021,Staphylococcus aureus,PA+OSBF,Overall,Doxycycline,4.0
+2021,Staphylococcus aureus,Blood,ICU,Cefoxitin (MRSA),18.0
+2021,Staphylococcus aureus,Blood,IPD,Cefoxitin (MRSA),18.0
+2021,Staphylococcus aureus,Blood,OPD,Cefoxitin (MRSA),19.0
+2021,Staphylococcus aureus,Blood,ICU,Amikacin,10.0
+2021,Staphylococcus aureus,Blood,IPD,Amikacin,13.0
+2021,Staphylococcus aureus,Blood,OPD,Amikacin,12.0
+2021,Staphylococcus aureus,Blood,ICU,Gentamicin,17.0
+2021,Staphylococcus aureus,Blood,IPD,Gentamicin,16.0
+2021,Staphylococcus aureus,Blood,OPD,Gentamicin,19.0
+2021,Staphylococcus aureus,Blood,ICU,Ciprofloxacin,45.0
+2021,Staphylococcus aureus,Blood,IPD,Ciprofloxacin,47.0
+2021,Staphylococcus aureus,Blood,OPD,Ciprofloxacin,38.0
+2021,Staphylococcus aureus,Blood,ICU,TMP-SMX,22.0
+2021,Staphylococcus aureus,Blood,IPD,TMP-SMX,15.0
+2021,Staphylococcus aureus,Blood,OPD,TMP-SMX,18.0
+2021,Staphylococcus aureus,Blood,ICU,Clindamycin,17.0
+2021,Staphylococcus aureus,Blood,IPD,Clindamycin,20.0
+2021,Staphylococcus aureus,Blood,OPD,Clindamycin,17.0
+2021,Staphylococcus aureus,Blood,ICU,Erythromycin,56.0
+2021,Staphylococcus aureus,Blood,IPD,Erythromycin,48.0
+2021,Staphylococcus aureus,Blood,OPD,Erythromycin,56.0
+2021,Staphylococcus aureus,Blood,ICU,Linezolid,0.0
+2021,Staphylococcus aureus,Blood,IPD,Linezolid,0.0
+2021,Staphylococcus aureus,Blood,OPD,Linezolid,0.0
+2021,Staphylococcus aureus,Blood,ICU,Doxycycline,0.0
+2021,Staphylococcus aureus,Blood,IPD,Doxycycline,2.0
+2021,Staphylococcus aureus,Blood,OPD,Doxycycline,3.0
+2021,Enterococcus spp.,All Specimens,Overall,Ampicillin,33.0
+2021,Enterococcus spp.,All Specimens,Overall,Gentamicin-High Level,35.0
+2021,Enterococcus spp.,All Specimens,Overall,Ciprofloxacin,63.0
+2021,Enterococcus spp.,All Specimens,Overall,Erythromycin,75.0
+2021,Enterococcus spp.,All Specimens,Overall,Linezolid,2.0
+2021,Enterococcus spp.,All Specimens,Overall,Vancomycin,5.0
+2021,Enterococcus spp.,All Specimens,Overall,Doxycycline,57.0
+2021,Enterococcus spp.,All Specimens,Overall,Tetracycline,69.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Ampicillin,22.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Gentamicin-High Level,23.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Ciprofloxacin,42.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Erythromycin,72.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Linezolid,2.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Vancomycin,3.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Doxycycline,57.0
+2021,Enterococcus spp.,PA+OSBF,Overall,Tetracycline,59.0
+2021,Enterococcus spp.,Blood,Overall,Ampicillin,60.0
+2021,Enterococcus spp.,Blood,Overall,Gentamicin-High Level,52.0
+2021,Enterococcus spp.,Blood,Overall,Ciprofloxacin,58.0
+2021,Enterococcus spp.,Blood,Overall,Erythromycin,82.0
+2021,Enterococcus spp.,Blood,Overall,Linezolid,2.0
+2021,Enterococcus spp.,Blood,Overall,Vancomycin,6.0
+2021,Enterococcus spp.,Blood,Overall,Doxycycline,65.0
+2021,Enterococcus spp.,Blood,Overall,Tetracycline,81.0
+2021,Enterococcus spp.,Urine,Overall,Ampicillin,34.0
+2021,Enterococcus spp.,Urine,Overall,Gentamicin-High Level,41.0
+2021,Enterococcus spp.,Urine,Overall,Ciprofloxacin,69.0
+2021,Enterococcus spp.,Urine,Overall,Erythromycin,73.0
+2021,Enterococcus spp.,Urine,Overall,Linezolid,3.0
+2021,Enterococcus spp.,Urine,Overall,Vancomycin,6.0
+2021,Enterococcus spp.,Urine,Overall,Doxycycline,38.0
+2021,Enterococcus spp.,Urine,Overall,Tetracycline,70.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Ampicillin,36.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Ampicillin,61.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Ampicillin,10.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Gentamicin-High Level,32.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Gentamicin-High Level,51.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Gentamicin-High Level,19.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Ciprofloxacin,49.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Ciprofloxacin,72.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Ciprofloxacin,29.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Erythromycin,78.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Erythromycin,85.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Erythromycin,61.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Linezolid,1.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Linezolid,4.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Linezolid,3.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Vancomycin,3.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Vancomycin,5.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Vancomycin,4.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Doxycycline,62.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Doxycycline,68.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Doxycycline,44.0
+2021,Enterococcus spp.,Blood+PA+OSBF,ICU,Tetracycline,75.0
+2021,Enterococcus spp.,Blood+PA+OSBF,IPD,Tetracycline,89.0
+2021,Enterococcus spp.,Blood+PA+OSBF,OPD,Tetracycline,35.0
+2021,Enterococcus spp.,Urine,ICU,Ampicillin,36.0
+2021,Enterococcus spp.,Urine,IPD,Ampicillin,48.0
+2021,Enterococcus spp.,Urine,OPD,Ampicillin,20.0
+2021,Enterococcus spp.,Urine,ICU,Gentamicin-High Level,39.0
+2021,Enterococcus spp.,Urine,IPD,Gentamicin-High Level,62.0
+2021,Enterococcus spp.,Urine,OPD,Gentamicin-High Level,30.0
+2021,Enterococcus spp.,Urine,ICU,Ciprofloxacin,71.0
+2021,Enterococcus spp.,Urine,IPD,Ciprofloxacin,85.0
+2021,Enterococcus spp.,Urine,OPD,Ciprofloxacin,55.0
+2021,Enterococcus spp.,Urine,ICU,Linezolid,1.0
+2021,Enterococcus spp.,Urine,IPD,Linezolid,2.0
+2021,Enterococcus spp.,Urine,OPD,Linezolid,7.0
+2021,Enterococcus spp.,Urine,ICU,Vancomycin,3.0
+2021,Enterococcus spp.,Urine,IPD,Vancomycin,8.0
+2021,Enterococcus spp.,Urine,OPD,Vancomycin,9.0
+2021,Enterococcus spp.,Urine,ICU,Doxycycline,29.0
+2021,Enterococcus spp.,Urine,IPD,Doxycycline,0.0
+2021,Enterococcus spp.,Urine,OPD,Doxycycline,80.0
+2021,Enterococcus spp.,Urine,ICU,Tetracycline,68.0
+2021,Enterococcus spp.,Urine,IPD,Tetracycline,78.0
+2021,Enterococcus spp.,Urine,OPD,Tetracycline,67.0
+2021,Escherichia coli,All Specimens,Overall,Ampicillin,83.0
+2021,Escherichia coli,All Specimens,Overall,Cefoperazone-Sulbactam,8.0
+2021,Escherichia coli,All Specimens,Overall,Piperacillin-Tazobactam,18.0
+2021,Escherichia coli,All Specimens,Overall,Cefotaxime,62.0
+2021,Escherichia coli,All Specimens,Overall,Cefepime,48.0
+2021,Escherichia coli,All Specimens,Overall,Imipenem,10.0
+2021,Escherichia coli,All Specimens,Overall,Meropenem,9.0
+2021,Escherichia coli,All Specimens,Overall,Amikacin,15.0
+2021,Escherichia coli,All Specimens,Overall,Gentamicin,28.0
+2021,Escherichia coli,All Specimens,Overall,Ciprofloxacin,61.0
+2021,Escherichia coli,All Specimens,Overall,TMP-SMX,53.0
+2021,Escherichia coli,All Specimens,Overall,Fosfomycin,7.0
+2021,Escherichia coli,All Specimens,Overall,Nitrofurantoin,11.0
+2021,Escherichia coli,PA+OSBF,Overall,Ampicillin,84.0
+2021,Escherichia coli,PA+OSBF,Overall,Cefoperazone-Sulbactam,5.0
+2021,Escherichia coli,PA+OSBF,Overall,Piperacillin-Tazobactam,20.0
+2021,Escherichia coli,PA+OSBF,Overall,Cefotaxime,58.0
+2021,Escherichia coli,PA+OSBF,Overall,Cefepime,46.0
+2021,Escherichia coli,PA+OSBF,Overall,Imipenem,9.0
+2021,Escherichia coli,PA+OSBF,Overall,Meropenem,10.0
+2021,Escherichia coli,PA+OSBF,Overall,Amikacin,16.0
+2021,Escherichia coli,PA+OSBF,Overall,Gentamicin,31.0
+2021,Escherichia coli,PA+OSBF,Overall,Ciprofloxacin,62.0
+2021,Escherichia coli,PA+OSBF,Overall,TMP-SMX,52.0
+2021,Escherichia coli,Blood,Overall,Ampicillin,84.0
+2021,Escherichia coli,Blood,Overall,Cefoperazone-Sulbactam,9.0
+2021,Escherichia coli,Blood,Overall,Piperacillin-Tazobactam,24.0
+2021,Escherichia coli,Blood,Overall,Cefotaxime,66.0
+2021,Escherichia coli,Blood,Overall,Cefepime,48.0
+2021,Escherichia coli,Blood,Overall,Imipenem,10.0
+2021,Escherichia coli,Blood,Overall,Meropenem,10.0
+2021,Escherichia coli,Blood,Overall,Amikacin,19.0
+2021,Escherichia coli,Blood,Overall,Gentamicin,33.0
+2021,Escherichia coli,Blood,Overall,Ciprofloxacin,64.0
+2021,Escherichia coli,Blood,Overall,TMP-SMX,56.0
+2021,Escherichia coli,Urine,Overall,Ampicillin,82.0
+2021,Escherichia coli,Urine,Overall,Cefoperazone-Sulbactam,8.0
+2021,Escherichia coli,Urine,Overall,Piperacillin-Tazobactam,17.0
+2021,Escherichia coli,Urine,Overall,Cefotaxime,62.0
+2021,Escherichia coli,Urine,Overall,Cefepime,48.0
+2021,Escherichia coli,Urine,Overall,Imipenem,10.0
+2021,Escherichia coli,Urine,Overall,Meropenem,8.0
+2021,Escherichia coli,Urine,Overall,Amikacin,15.0
+2021,Escherichia coli,Urine,Overall,Gentamicin,27.0
+2021,Escherichia coli,Urine,Overall,Ciprofloxacin,61.0
+2021,Escherichia coli,Urine,Overall,TMP-SMX,53.0
+2021,Escherichia coli,Urine,Overall,Fosfomycin,7.0
+2021,Escherichia coli,Urine,Overall,Nitrofurantoin,11.0
+2021,Escherichia coli,All Specimens,ICU,Ampicillin,89.0
+2021,Escherichia coli,All Specimens,IPD,Ampicillin,84.0
+2021,Escherichia coli,All Specimens,OPD,Ampicillin,80.0
+2021,Escherichia coli,All Specimens,ICU,Cefoperazone-Sulbactam,12.0
+2021,Escherichia coli,All Specimens,IPD,Cefoperazone-Sulbactam,8.0
+2021,Escherichia coli,All Specimens,OPD,Cefoperazone-Sulbactam,3.0
+2021,Escherichia coli,All Specimens,ICU,Piperacillin-Tazobactam,27.0
+2021,Escherichia coli,All Specimens,IPD,Piperacillin-Tazobactam,21.0
+2021,Escherichia coli,All Specimens,OPD,Piperacillin-Tazobactam,15.0
+2021,Escherichia coli,All Specimens,ICU,Cefotaxime,71.0
+2021,Escherichia coli,All Specimens,IPD,Cefotaxime,64.0
+2021,Escherichia coli,All Specimens,OPD,Cefotaxime,60.0
+2021,Escherichia coli,All Specimens,ICU,Ertapenem,15.0
+2021,Escherichia coli,All Specimens,IPD,Ertapenem,7.0
+2021,Escherichia coli,All Specimens,OPD,Ertapenem,5.0
+2021,Escherichia coli,All Specimens,ICU,Imipenem,16.0
+2021,Escherichia coli,All Specimens,IPD,Imipenem,11.0
+2021,Escherichia coli,All Specimens,OPD,Imipenem,8.0
+2021,Escherichia coli,All Specimens,ICU,Meropenem,19.0
+2021,Escherichia coli,All Specimens,IPD,Meropenem,10.0
+2021,Escherichia coli,All Specimens,OPD,Meropenem,5.0
+2021,Escherichia coli,All Specimens,ICU,Amikacin,18.0
+2021,Escherichia coli,All Specimens,IPD,Amikacin,16.0
+2021,Escherichia coli,All Specimens,OPD,Amikacin,13.0
+2021,Escherichia coli,All Specimens,ICU,Gentamicin,33.0
+2021,Escherichia coli,All Specimens,IPD,Gentamicin,31.0
+2021,Escherichia coli,All Specimens,OPD,Gentamicin,25.0
+2021,Escherichia coli,All Specimens,ICU,Ciprofloxacin,68.0
+2021,Escherichia coli,All Specimens,IPD,Ciprofloxacin,64.0
+2021,Escherichia coli,All Specimens,OPD,Ciprofloxacin,58.0
+2021,Escherichia coli,All Specimens,ICU,TMP-SMX,59.0
+2021,Escherichia coli,All Specimens,IPD,TMP-SMX,51.0
+2021,Escherichia coli,All Specimens,OPD,TMP-SMX,55.0
+2021,Escherichia coli,All Specimens,ICU,Fosfomycin,0.0
+2021,Escherichia coli,All Specimens,IPD,Fosfomycin,1.0
+2021,Escherichia coli,All Specimens,OPD,Fosfomycin,8.0
+2021,Escherichia coli,All Specimens,ICU,Nitrofurantoin,7.0
+2021,Escherichia coli,All Specimens,IPD,Nitrofurantoin,12.0
+2021,Escherichia coli,All Specimens,OPD,Nitrofurantoin,12.0
+2021,Klebsiella spp.,All Specimens,Overall,Cefoperazone-Sulbactam,24.0
+2021,Klebsiella spp.,All Specimens,Overall,Piperacillin-Tazobactam,42.0
+2021,Klebsiella spp.,All Specimens,Overall,Cefotaxime,63.0
+2021,Klebsiella spp.,All Specimens,Overall,Cefepime,55.0
+2021,Klebsiella spp.,All Specimens,Overall,Imipenem,26.0
+2021,Klebsiella spp.,All Specimens,Overall,Meropenem,32.0
+2021,Klebsiella spp.,All Specimens,Overall,Amikacin,30.0
+2021,Klebsiella spp.,All Specimens,Overall,Gentamicin,39.0
+2021,Klebsiella spp.,All Specimens,Overall,Ciprofloxacin,60.0
+2021,Klebsiella spp.,All Specimens,Overall,TMP-SMX,52.0
+2021,Klebsiella spp.,All Specimens,Overall,Nitrofurantoin,48.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Cefoperazone-Sulbactam,20.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Piperacillin-Tazobactam,47.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Cefotaxime,65.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Cefepime,59.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Imipenem,24.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Meropenem,32.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Amikacin,32.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Gentamicin,43.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Ciprofloxacin,64.0
+2021,Klebsiella spp.,PA+OSBF,Overall,TMP-SMX,57.0
+2021,Klebsiella spp.,PA+OSBF,Overall,Nitrofurantoin,81.0
+2021,Klebsiella spp.,Blood,Overall,Cefoperazone-Sulbactam,30.0
+2021,Klebsiella spp.,Blood,Overall,Piperacillin-Tazobactam,59.0
+2021,Klebsiella spp.,Blood,Overall,Cefotaxime,67.0
+2021,Klebsiella spp.,Blood,Overall,Cefepime,65.0
+2021,Klebsiella spp.,Blood,Overall,Imipenem,43.0
+2021,Klebsiella spp.,Blood,Overall,Meropenem,47.0
+2021,Klebsiella spp.,Blood,Overall,Amikacin,43.0
+2021,Klebsiella spp.,Blood,Overall,Gentamicin,50.0
+2021,Klebsiella spp.,Blood,Overall,Ciprofloxacin,68.0
+2021,Klebsiella spp.,Blood,Overall,TMP-SMX,58.0
+2021,Klebsiella spp.,Blood,Overall,Nitrofurantoin,42.0
+2021,Klebsiella spp.,Urine,Overall,Cefoperazone-Sulbactam,26.0
+2021,Klebsiella spp.,Urine,Overall,Piperacillin-Tazobactam,33.0
+2021,Klebsiella spp.,Urine,Overall,Cefotaxime,61.0
+2021,Klebsiella spp.,Urine,Overall,Cefepime,48.0
+2021,Klebsiella spp.,Urine,Overall,Imipenem,21.0
+2021,Klebsiella spp.,Urine,Overall,Meropenem,26.0
+2021,Klebsiella spp.,Urine,Overall,Amikacin,24.0
+2021,Klebsiella spp.,Urine,Overall,Gentamicin,32.0
+2021,Klebsiella spp.,Urine,Overall,Ciprofloxacin,55.0
+2021,Klebsiella spp.,Urine,Overall,TMP-SMX,47.0
+2021,Klebsiella spp.,Urine,Overall,Nitrofurantoin,47.0
+2021,Klebsiella spp.,All Specimens,ICU,Cefoperazone-Sulbactam,29.0
+2021,Klebsiella spp.,All Specimens,IPD,Cefoperazone-Sulbactam,15.0
+2021,Klebsiella spp.,All Specimens,OPD,Cefoperazone-Sulbactam,28.0
+2021,Klebsiella spp.,All Specimens,ICU,Piperacillin-Tazobactam,60.0
+2021,Klebsiella spp.,All Specimens,IPD,Piperacillin-Tazobactam,28.0
+2021,Klebsiella spp.,All Specimens,OPD,Piperacillin-Tazobactam,48.0
+2021,Klebsiella spp.,All Specimens,ICU,Cefotaxime,75.0
+2021,Klebsiella spp.,All Specimens,IPD,Cefotaxime,53.0
+2021,Klebsiella spp.,All Specimens,OPD,Cefotaxime,69.0
+2021,Klebsiella spp.,All Specimens,ICU,Cefepime,70.0
+2021,Klebsiella spp.,All Specimens,IPD,Cefepime,41.0
+2021,Klebsiella spp.,All Specimens,OPD,Cefepime,62.0
+2021,Klebsiella spp.,All Specimens,ICU,Imipenem,39.0
+2021,Klebsiella spp.,All Specimens,IPD,Imipenem,16.0
+2021,Klebsiella spp.,All Specimens,OPD,Imipenem,31.0
+2021,Klebsiella spp.,All Specimens,ICU,Meropenem,47.0
+2021,Klebsiella spp.,All Specimens,IPD,Meropenem,19.0
+2021,Klebsiella spp.,All Specimens,OPD,Meropenem,35.0
+2021,Klebsiella spp.,All Specimens,ICU,Amikacin,43.0
+2021,Klebsiella spp.,All Specimens,IPD,Amikacin,18.0
+2021,Klebsiella spp.,All Specimens,OPD,Amikacin,35.0
+2021,Klebsiella spp.,All Specimens,ICU,Gentamicin,48.0
+2021,Klebsiella spp.,All Specimens,IPD,Gentamicin,28.0
+2021,Klebsiella spp.,All Specimens,OPD,Gentamicin,45.0
+2021,Klebsiella spp.,All Specimens,ICU,Ciprofloxacin,69.0
+2021,Klebsiella spp.,All Specimens,IPD,Ciprofloxacin,49.0
+2021,Klebsiella spp.,All Specimens,OPD,Ciprofloxacin,66.0
+2021,Klebsiella spp.,All Specimens,ICU,TMP-SMX,59.0
+2021,Klebsiella spp.,All Specimens,IPD,TMP-SMX,43.0
+2021,Klebsiella spp.,All Specimens,OPD,TMP-SMX,58.0
+2021,Klebsiella spp.,All Specimens,ICU,Nitrofurantoin,52.0
+2021,Klebsiella spp.,All Specimens,IPD,Nitrofurantoin,44.0
+2021,Klebsiella spp.,All Specimens,OPD,Nitrofurantoin,54.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Ampicillin,25.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Ceftriaxone,0.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Imipenem,0.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Ciprofloxacin,63.0
+2021,Salmonella Typhi,Blood+Stool,Overall,TMP-SMX,67.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Azithromycin,0.0
+2021,Salmonella Typhi,Blood+Stool,Overall,Chloramphenicol,33.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,Ampicillin,0.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,Ceftriaxone,0.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,Ciprofloxacin,100.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,TMP-SMX,0.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,Azithromycin,0.0
+2021,Salmonella Paratyphi A,Blood+Stool,Overall,Chloramphenicol,0.0
+2021,Salmonella Paratyphi B,Blood+Stool,Overall,Ampicillin,100.0
+2021,Salmonella Paratyphi B,Blood+Stool,Overall,Ceftriaxone,0.0
+2021,Salmonella Paratyphi B,Blood+Stool,Overall,Ciprofloxacin,50.0
+2021,Salmonella Paratyphi B,Blood+Stool,Overall,Chloramphenicol,0.0
+2021,Pseudomonas spp.,All Specimens,Overall,Piperacillin-Tazobactam,13.0
+2021,Pseudomonas spp.,All Specimens,Overall,Ceftazidime,28.0
+2021,Pseudomonas spp.,All Specimens,Overall,Imipenem,14.0
+2021,Pseudomonas spp.,All Specimens,Overall,Meropenem,16.0
+2021,Pseudomonas spp.,All Specimens,Overall,Amikacin,18.0
+2021,Pseudomonas spp.,All Specimens,Overall,Gentamicin,21.0
+2021,Pseudomonas spp.,All Specimens,Overall,Ciprofloxacin,29.0
+2021,Pseudomonas spp.,Blood,Overall,Piperacillin-Tazobactam,10.0
+2021,Pseudomonas spp.,Blood,Overall,Ceftazidime,21.0
+2021,Pseudomonas spp.,Blood,Overall,Imipenem,17.0
+2021,Pseudomonas spp.,Blood,Overall,Meropenem,17.0
+2021,Pseudomonas spp.,Blood,Overall,Amikacin,14.0
+2021,Pseudomonas spp.,Blood,Overall,Gentamicin,16.0
+2021,Pseudomonas spp.,Blood,Overall,Ciprofloxacin,18.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Piperacillin-Tazobactam,14.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Ceftazidime,30.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Imipenem,12.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Meropenem,16.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Amikacin,19.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Gentamicin,23.0
+2021,Pseudomonas spp.,PA+OSBF,Overall,Ciprofloxacin,30.0
+2021,Pseudomonas spp.,Urine,Overall,Piperacillin-Tazobactam,13.0
+2021,Pseudomonas spp.,Urine,Overall,Ceftazidime,30.0
+2021,Pseudomonas spp.,Urine,Overall,Imipenem,19.0
+2021,Pseudomonas spp.,Urine,Overall,Meropenem,15.0
+2021,Pseudomonas spp.,Urine,Overall,Amikacin,19.0
+2021,Pseudomonas spp.,Urine,Overall,Gentamicin,21.0
+2021,Pseudomonas spp.,Urine,Overall,Ciprofloxacin,30.0
+2021,Pseudomonas spp.,All Specimens,ICU,Piperacillin-Tazobactam,20.0
+2021,Pseudomonas spp.,All Specimens,IPD,Piperacillin-Tazobactam,9.0
+2021,Pseudomonas spp.,All Specimens,OPD,Piperacillin-Tazobactam,15.0
+2021,Pseudomonas spp.,All Specimens,ICU,Ceftazidime,40.0
+2021,Pseudomonas spp.,All Specimens,IPD,Ceftazidime,24.0
+2021,Pseudomonas spp.,All Specimens,OPD,Ceftazidime,30.0
+2021,Pseudomonas spp.,All Specimens,ICU,Imipenem,21.0
+2021,Pseudomonas spp.,All Specimens,IPD,Imipenem,15.0
+2021,Pseudomonas spp.,All Specimens,OPD,Imipenem,12.0
+2021,Pseudomonas spp.,All Specimens,ICU,Meropenem,21.0
+2021,Pseudomonas spp.,All Specimens,IPD,Meropenem,12.0
+2021,Pseudomonas spp.,All Specimens,OPD,Meropenem,17.0
+2021,Pseudomonas spp.,All Specimens,ICU,Amikacin,21.0
+2021,Pseudomonas spp.,All Specimens,IPD,Amikacin,16.0
+2021,Pseudomonas spp.,All Specimens,OPD,Amikacin,19.0
+2021,Pseudomonas spp.,All Specimens,ICU,Gentamicin,26.0
+2021,Pseudomonas spp.,All Specimens,IPD,Gentamicin,19.0
+2021,Pseudomonas spp.,All Specimens,OPD,Gentamicin,23.0
+2021,Pseudomonas spp.,All Specimens,ICU,Ciprofloxacin,32.0
+2021,Pseudomonas spp.,All Specimens,IPD,Ciprofloxacin,27.0
+2021,Pseudomonas spp.,All Specimens,OPD,Ciprofloxacin,30.0
+2021,Acinetobacter spp.,All Specimens,Overall,Cefoperazone-Sulbactam,11.0
+2021,Acinetobacter spp.,All Specimens,Overall,Piperacillin-Tazobactam,50.0
+2021,Acinetobacter spp.,All Specimens,Overall,Ceftazidime,67.0
+2021,Acinetobacter spp.,All Specimens,Overall,Cefepime,64.0
+2021,Acinetobacter spp.,All Specimens,Overall,Imipenem,54.0
+2021,Acinetobacter spp.,All Specimens,Overall,Meropenem,54.0
+2021,Acinetobacter spp.,All Specimens,Overall,Amikacin,49.0
+2021,Acinetobacter spp.,All Specimens,Overall,Gentamicin,51.0
+2021,Acinetobacter spp.,All Specimens,Overall,Ciprofloxacin,57.0
+2021,Acinetobacter spp.,All Specimens,Overall,TMP-SMX,42.0
+2021,Acinetobacter spp.,All Specimens,Overall,Minocycline,38.0
+2021,Acinetobacter spp.,Blood,Overall,Cefoperazone-Sulbactam,8.0
+2021,Acinetobacter spp.,Blood,Overall,Piperacillin-Tazobactam,49.0
+2021,Acinetobacter spp.,Blood,Overall,Ceftazidime,63.0
+2021,Acinetobacter spp.,Blood,Overall,Cefepime,66.0
+2021,Acinetobacter spp.,Blood,Overall,Imipenem,56.0
+2021,Acinetobacter spp.,Blood,Overall,Meropenem,52.0
+2021,Acinetobacter spp.,Blood,Overall,Amikacin,52.0
+2021,Acinetobacter spp.,Blood,Overall,Gentamicin,55.0
+2021,Acinetobacter spp.,Blood,Overall,Ciprofloxacin,55.0
+2021,Acinetobacter spp.,Blood,Overall,TMP-SMX,43.0
+2021,Acinetobacter spp.,Blood,Overall,Minocycline,34.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Cefoperazone-Sulbactam,14.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Piperacillin-Tazobactam,66.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Ceftazidime,78.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Cefepime,72.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Imipenem,67.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Meropenem,66.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Amikacin,59.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Gentamicin,61.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Ciprofloxacin,73.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,TMP-SMX,52.0
+2021,Acinetobacter spp.,PA+OSBF,Overall,Minocycline,40.0
+2021,Acinetobacter spp.,Urine,Overall,Cefoperazone-Sulbactam,11.0
+2021,Acinetobacter spp.,Urine,Overall,Piperacillin-Tazobactam,21.0
+2021,Acinetobacter spp.,Urine,Overall,Ceftazidime,51.0
+2021,Acinetobacter spp.,Urine,Overall,Cefepime,34.0
+2021,Acinetobacter spp.,Urine,Overall,Imipenem,25.0
+2021,Acinetobacter spp.,Urine,Overall,Meropenem,28.0
+2021,Acinetobacter spp.,Urine,Overall,Amikacin,23.0
+2021,Acinetobacter spp.,Urine,Overall,Gentamicin,25.0
+2021,Acinetobacter spp.,Urine,Overall,Ciprofloxacin,30.0
+2021,Acinetobacter spp.,Urine,Overall,TMP-SMX,25.0
+2021,Acinetobacter spp.,Urine,Overall,Minocycline,60.0
+2021,Acinetobacter spp.,All Specimens,ICU,Cefoperazone-Sulbactam,9.0
+2021,Acinetobacter spp.,All Specimens,IPD,Cefoperazone-Sulbactam,1.0
+2021,Acinetobacter spp.,All Specimens,OPD,Cefoperazone-Sulbactam,15.0
+2021,Acinetobacter spp.,All Specimens,ICU,Piperacillin-Tazobactam,69.0
+2021,Acinetobacter spp.,All Specimens,IPD,Piperacillin-Tazobactam,27.0
+2021,Acinetobacter spp.,All Specimens,OPD,Piperacillin-Tazobactam,50.0
+2021,Acinetobacter spp.,All Specimens,ICU,Ceftazidime,81.0
+2021,Acinetobacter spp.,All Specimens,IPD,Ceftazidime,52.0
+2021,Acinetobacter spp.,All Specimens,OPD,Ceftazidime,62.0
+2021,Acinetobacter spp.,All Specimens,ICU,Cefepime,84.0
+2021,Acinetobacter spp.,All Specimens,IPD,Cefepime,39.0
+2021,Acinetobacter spp.,All Specimens,OPD,Cefepime,57.0
+2021,Acinetobacter spp.,All Specimens,ICU,Imipenem,76.0
+2021,Acinetobacter spp.,All Specimens,IPD,Imipenem,53.0
+2021,Acinetobacter spp.,All Specimens,OPD,Imipenem,30.0
+2021,Acinetobacter spp.,All Specimens,ICU,Meropenem,69.0
+2021,Acinetobacter spp.,All Specimens,IPD,Meropenem,50.0
+2021,Acinetobacter spp.,All Specimens,OPD,Meropenem,35.0
+2021,Acinetobacter spp.,All Specimens,ICU,Amikacin,66.0
+2021,Acinetobacter spp.,All Specimens,IPD,Amikacin,26.0
+2021,Acinetobacter spp.,All Specimens,OPD,Amikacin,47.0
+2021,Acinetobacter spp.,All Specimens,ICU,Gentamicin,70.0
+2021,Acinetobacter spp.,All Specimens,IPD,Gentamicin,26.0
+2021,Acinetobacter spp.,All Specimens,OPD,Gentamicin,50.0
+2021,Acinetobacter spp.,All Specimens,ICU,Ciprofloxacin,71.0
+2021,Acinetobacter spp.,All Specimens,IPD,Ciprofloxacin,35.0
+2021,Acinetobacter spp.,All Specimens,OPD,Ciprofloxacin,56.0
+2021,Acinetobacter spp.,All Specimens,ICU,TMP-SMX,49.0
+2021,Acinetobacter spp.,All Specimens,IPD,TMP-SMX,32.0
+2021,Acinetobacter spp.,All Specimens,OPD,TMP-SMX,42.0
+2021,Acinetobacter spp.,All Specimens,ICU,Minocycline,39.0
+2021,Acinetobacter spp.,All Specimens,IPD,Minocycline,35.0
+2021,Acinetobacter spp.,All Specimens,OPD,Minocycline,36.0
+2018,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),43.53
+2018,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),52.93
+2018,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),34.33
+2018,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),30.0
+2019,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),33.37
+2019,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),53.06
+2019,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),27.39
+2019,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),26.53
+2021,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),67.0
+2021,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),62.0
+2021,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),63.0
+2021,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),28.0
+2018,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),32.0
+2018,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),10.3
+2018,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),19.9
+2018,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),15.9
+2019,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),30.4
+2019,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),4.36
+2019,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),16.48
+2019,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),6.92
+2021,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),54.0
+2021,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),10.0
+2021,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),32.0
+2021,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),14.0
+2018,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),36.67
+2019,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),38.95
+2021,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),20.0
+2018,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),0.62
+2019,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),0.26
+2021,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),5.0
+2022,Staphylococcus aureus,Blood,Overall,Cefoxitin (MRSA),38.0
+2022,Staphylococcus aureus,Blood,Overall,Amikacin,2.0
+2022,Staphylococcus aureus,Blood,Overall,Gentamicin,23.0
+2022,Staphylococcus aureus,Blood,Overall,Ciprofloxacin,40.0
+2022,Staphylococcus aureus,Blood,Overall,TMP-SMX,20.0
+2022,Staphylococcus aureus,Blood,Overall,Clindamycin,27.0
+2022,Staphylococcus aureus,Blood,Overall,Erythromycin,69.0
+2022,Staphylococcus aureus,Blood,Overall,Linezolid,0.0
+2022,Staphylococcus aureus,Blood,Overall,Teicoplanin,0.0
+2022,Staphylococcus aureus,Blood,Overall,Doxycycline,3.0
+2022,Staphylococcus aureus,Blood,Overall,Vancomycin,0.0
+2022,Staphylococcus aureus,PA,Overall,Cefoxitin (MRSA),24.0
+2022,Staphylococcus aureus,PA,Overall,Amikacin,3.0
+2022,Staphylococcus aureus,PA,Overall,Gentamicin,14.0
+2022,Staphylococcus aureus,PA,Overall,Ciprofloxacin,46.0
+2022,Staphylococcus aureus,PA,Overall,TMP-SMX,10.0
+2022,Staphylococcus aureus,PA,Overall,Clindamycin,16.0
+2022,Staphylococcus aureus,PA,Overall,Erythromycin,54.0
+2022,Staphylococcus aureus,PA,Overall,Linezolid,0.0
+2022,Staphylococcus aureus,PA,Overall,Teicoplanin,1.0
+2022,Staphylococcus aureus,PA,Overall,Doxycycline,3.0
+2022,Staphylococcus aureus,PA,Overall,Vancomycin,0.0
+2022,Staphylococcus aureus,OSBF,Overall,Cefoxitin (MRSA),31.0
+2022,Staphylococcus aureus,OSBF,Overall,Gentamicin,19.0
+2022,Staphylococcus aureus,OSBF,Overall,Ciprofloxacin,57.0
+2022,Staphylococcus aureus,OSBF,Overall,TMP-SMX,7.0
+2022,Staphylococcus aureus,OSBF,Overall,Clindamycin,19.0
+2022,Staphylococcus aureus,OSBF,Overall,Erythromycin,62.0
+2022,Staphylococcus aureus,OSBF,Overall,Linezolid,0.0
+2022,Staphylococcus aureus,OSBF,Overall,Doxycycline,3.0
+2022,Staphylococcus aureus,All Specimens,Overall,Cefoxitin (MRSA),27.0
+2022,Staphylococcus aureus,Blood,ICU,Cefoxitin (MRSA),17.0
+2022,Staphylococcus aureus,Blood,IPD,Cefoxitin (MRSA),40.0
+2022,Staphylococcus aureus,Blood,OPD,Cefoxitin (MRSA),33.0
+2022,Staphylococcus aureus,Blood,ICU,Amikacin,0.0
+2022,Staphylococcus aureus,Blood,IPD,Amikacin,0.0
+2022,Staphylococcus aureus,Blood,OPD,Amikacin,5.0
+2022,Staphylococcus aureus,Blood,ICU,Gentamicin,11.0
+2022,Staphylococcus aureus,Blood,IPD,Gentamicin,23.0
+2022,Staphylococcus aureus,Blood,OPD,Gentamicin,24.0
+2022,Staphylococcus aureus,Blood,ICU,Ciprofloxacin,14.0
+2022,Staphylococcus aureus,Blood,IPD,Ciprofloxacin,43.0
+2022,Staphylococcus aureus,Blood,OPD,Ciprofloxacin,41.0
+2022,Staphylococcus aureus,Blood,ICU,TMP-SMX,4.0
+2022,Staphylococcus aureus,Blood,IPD,TMP-SMX,20.0
+2022,Staphylococcus aureus,Blood,OPD,TMP-SMX,25.0
+2022,Staphylococcus aureus,Blood,ICU,Clindamycin,18.0
+2022,Staphylococcus aureus,Blood,IPD,Clindamycin,28.0
+2022,Staphylococcus aureus,Blood,OPD,Clindamycin,25.0
+2022,Staphylococcus aureus,Blood,ICU,Erythromycin,67.0
+2022,Staphylococcus aureus,Blood,IPD,Erythromycin,69.0
+2022,Staphylococcus aureus,Blood,OPD,Erythromycin,69.0
+2022,Staphylococcus aureus,Blood,ICU,Linezolid,6.0
+2022,Staphylococcus aureus,Blood,IPD,Linezolid,0.0
+2022,Staphylococcus aureus,Blood,OPD,Linezolid,0.0
+2022,Staphylococcus aureus,Blood,ICU,Teicoplanin,0.0
+2022,Staphylococcus aureus,Blood,IPD,Teicoplanin,0.0
+2022,Staphylococcus aureus,Blood,OPD,Teicoplanin,0.0
+2022,Staphylococcus aureus,Blood,ICU,Doxycycline,0.0
+2022,Staphylococcus aureus,Blood,IPD,Doxycycline,2.0
+2022,Staphylococcus aureus,Blood,OPD,Doxycycline,0.0
+2022,Staphylococcus aureus,Blood,ICU,Vancomycin,0.0
+2022,Staphylococcus aureus,Blood,IPD,Vancomycin,0.0
+2022,Staphylococcus aureus,Blood,OPD,Vancomycin,0.0
+2022,Staphylococcus aureus,All Specimens,ICU,Cefoxitin (MRSA),17.0
+2022,Staphylococcus aureus,All Specimens,IPD,Cefoxitin (MRSA),40.0
+2022,Staphylococcus aureus,All Specimens,OPD,Cefoxitin (MRSA),33.0
+2022,Enterococcus spp.,Blood,Overall,Ampicillin,51.0
+2022,Enterococcus spp.,Blood,Overall,Gentamicin-High Level,42.0
+2022,Enterococcus spp.,Blood,Overall,Erythromycin,74.0
+2022,Enterococcus spp.,Blood,Overall,Linezolid,1.0
+2022,Enterococcus spp.,Blood,Overall,Vancomycin,2.0
+2022,Enterococcus spp.,Blood,Overall,Teicoplanin,5.0
+2022,Enterococcus spp.,Blood,Overall,Doxycycline,55.0
+2022,Enterococcus spp.,PA,Overall,Ampicillin,18.0
+2022,Enterococcus spp.,PA,Overall,Gentamicin-High Level,19.0
+2022,Enterococcus spp.,PA,Overall,Erythromycin,68.0
+2022,Enterococcus spp.,PA,Overall,Linezolid,1.0
+2022,Enterococcus spp.,PA,Overall,Vancomycin,1.0
+2022,Enterococcus spp.,PA,Overall,Teicoplanin,3.0
+2022,Enterococcus spp.,PA,Overall,Doxycycline,33.0
+2022,Enterococcus spp.,OSBF,Overall,Ampicillin,42.0
+2022,Enterococcus spp.,OSBF,Overall,Gentamicin-High Level,21.0
+2022,Enterococcus spp.,OSBF,Overall,Erythromycin,63.0
+2022,Enterococcus spp.,OSBF,Overall,Linezolid,1.0
+2022,Enterococcus spp.,OSBF,Overall,Vancomycin,2.0
+2022,Enterococcus spp.,OSBF,Overall,Teicoplanin,0.0
+2022,Enterococcus spp.,OSBF,Overall,Doxycycline,63.0
+2022,Enterococcus spp.,Urine,Overall,Ampicillin,33.0
+2022,Enterococcus spp.,Urine,Overall,Gentamicin-High Level,34.0
+2022,Enterococcus spp.,Urine,Overall,Ciprofloxacin,68.0
+2022,Enterococcus spp.,Urine,Overall,Linezolid,1.0
+2022,Enterococcus spp.,Urine,Overall,Vancomycin,5.0
+2022,Enterococcus spp.,Urine,Overall,Teicoplanin,4.0
+2022,Enterococcus spp.,Urine,Overall,Fosfomycin,6.0
+2022,Enterococcus spp.,Urine,Overall,Tetracycline,72.0
+2022,Enterococcus spp.,Urine,Overall,Nitrofurantoin,23.0
+2022,Enterococcus spp.,All Specimens,Overall,Vancomycin (VRE),3.0
+2022,Enterococcus spp.,Blood,ICU,Ampicillin,48.0
+2022,Enterococcus spp.,Blood,IPD,Ampicillin,54.0
+2022,Enterococcus spp.,Blood,OPD,Ampicillin,40.0
+2022,Enterococcus spp.,Blood,ICU,Gentamicin-High Level,40.0
+2022,Enterococcus spp.,Blood,IPD,Gentamicin-High Level,45.0
+2022,Enterococcus spp.,Blood,OPD,Gentamicin-High Level,29.0
+2022,Enterococcus spp.,Blood,ICU,Erythromycin,71.0
+2022,Enterococcus spp.,Blood,IPD,Erythromycin,78.0
+2022,Enterococcus spp.,Blood,OPD,Erythromycin,75.0
+2022,Enterococcus spp.,Blood,ICU,Linezolid,2.0
+2022,Enterococcus spp.,Blood,IPD,Linezolid,0.0
+2022,Enterococcus spp.,Blood,OPD,Linezolid,11.0
+2022,Enterococcus spp.,Blood,ICU,Vancomycin,3.0
+2022,Enterococcus spp.,Blood,IPD,Vancomycin,1.0
+2022,Enterococcus spp.,Blood,OPD,Vancomycin,6.0
+2022,Enterococcus spp.,Blood,ICU,Teicoplanin,4.0
+2022,Enterococcus spp.,Blood,IPD,Teicoplanin,6.0
+2022,Enterococcus spp.,Blood,OPD,Teicoplanin,0.0
+2022,Enterococcus spp.,Blood,ICU,Doxycycline,42.0
+2022,Enterococcus spp.,Blood,IPD,Doxycycline,67.0
+2022,Enterococcus spp.,Blood,OPD,Doxycycline,40.0
+2022,Escherichia coli,Blood,Overall,Ampicillin,88.0
+2022,Escherichia coli,Blood,Overall,Amoxicillin-Clavulanic acid,33.0
+2022,Escherichia coli,Blood,Overall,Cefoperazone-Sulbactam,5.0
+2022,Escherichia coli,Blood,Overall,Piperacillin-Tazobactam,24.0
+2022,Escherichia coli,Blood,Overall,Cefuroxime,68.0
+2022,Escherichia coli,Blood,Overall,Ceftriaxone,67.0
+2022,Escherichia coli,Blood,Overall,Cefotaxime,62.0
+2022,Escherichia coli,Blood,Overall,Cefepime,47.0
+2022,Escherichia coli,Blood,Overall,Ertapenem,8.0
+2022,Escherichia coli,Blood,Overall,Imipenem,9.0
+2022,Escherichia coli,Blood,Overall,Meropenem,10.0
+2022,Escherichia coli,Blood,Overall,Amikacin,11.0
+2022,Escherichia coli,Blood,Overall,Gentamicin,27.0
+2022,Escherichia coli,Blood,Overall,Ciprofloxacin,63.0
+2022,Escherichia coli,Blood,Overall,TMP-SMX,49.0
+2022,Escherichia coli,Blood,Overall,Colistin,0.0
+2022,Escherichia coli,PA,Overall,Ampicillin,89.0
+2022,Escherichia coli,PA,Overall,Amoxicillin-Clavulanic acid,30.0
+2022,Escherichia coli,PA,Overall,Cefoperazone-Sulbactam,3.0
+2022,Escherichia coli,PA,Overall,Piperacillin-Tazobactam,24.0
+2022,Escherichia coli,PA,Overall,Cefuroxime,69.0
+2022,Escherichia coli,PA,Overall,Ceftriaxone,66.0
+2022,Escherichia coli,PA,Overall,Cefotaxime,64.0
+2022,Escherichia coli,PA,Overall,Cefepime,50.0
+2022,Escherichia coli,PA,Overall,Ertapenem,9.0
+2022,Escherichia coli,PA,Overall,Imipenem,13.0
+2022,Escherichia coli,PA,Overall,Meropenem,10.0
+2022,Escherichia coli,PA,Overall,Amikacin,14.0
+2022,Escherichia coli,PA,Overall,Gentamicin,30.0
+2022,Escherichia coli,PA,Overall,Ciprofloxacin,64.0
+2022,Escherichia coli,PA,Overall,TMP-SMX,44.0
+2022,Escherichia coli,PA,Overall,Colistin,0.0
+2022,Escherichia coli,OSBF,Overall,Ampicillin,80.0
+2022,Escherichia coli,OSBF,Overall,Amoxicillin-Clavulanic acid,35.0
+2022,Escherichia coli,OSBF,Overall,Cefoperazone-Sulbactam,5.0
+2022,Escherichia coli,OSBF,Overall,Piperacillin-Tazobactam,21.0
+2022,Escherichia coli,OSBF,Overall,Cefuroxime,63.0
+2022,Escherichia coli,OSBF,Overall,Ceftriaxone,56.0
+2022,Escherichia coli,OSBF,Overall,Cefotaxime,64.0
+2022,Escherichia coli,OSBF,Overall,Cefepime,44.0
+2022,Escherichia coli,OSBF,Overall,Ertapenem,18.0
+2022,Escherichia coli,OSBF,Overall,Imipenem,16.0
+2022,Escherichia coli,OSBF,Overall,Meropenem,7.0
+2022,Escherichia coli,OSBF,Overall,Amikacin,10.0
+2022,Escherichia coli,OSBF,Overall,Gentamicin,24.0
+2022,Escherichia coli,OSBF,Overall,Ciprofloxacin,66.0
+2022,Escherichia coli,OSBF,Overall,TMP-SMX,41.0
+2022,Escherichia coli,OSBF,Overall,Colistin,0.0
+2022,Escherichia coli,Urine,Overall,Ampicillin,84.0
+2022,Escherichia coli,Urine,Overall,Amoxicillin-Clavulanic acid,22.0
+2022,Escherichia coli,Urine,Overall,Cefoperazone-Sulbactam,4.0
+2022,Escherichia coli,Urine,Overall,Piperacillin-Tazobactam,16.0
+2022,Escherichia coli,Urine,Overall,Cefuroxime,62.0
+2022,Escherichia coli,Urine,Overall,Ceftriaxone,63.0
+2022,Escherichia coli,Urine,Overall,Cefotaxime,62.0
+2022,Escherichia coli,Urine,Overall,Cefepime,46.0
+2022,Escherichia coli,Urine,Overall,Ertapenem,5.0
+2022,Escherichia coli,Urine,Overall,Imipenem,11.0
+2022,Escherichia coli,Urine,Overall,Meropenem,10.0
+2022,Escherichia coli,Urine,Overall,Amikacin,8.0
+2022,Escherichia coli,Urine,Overall,Gentamicin,21.0
+2022,Escherichia coli,Urine,Overall,Ciprofloxacin,58.0
+2022,Escherichia coli,Urine,Overall,TMP-SMX,45.0
+2022,Escherichia coli,Urine,Overall,Colistin,0.0
+2022,Escherichia coli,Urine,Overall,Fosfomycin,0.0
+2022,Escherichia coli,Urine,Overall,Nitrofurantoin,9.0
+2022,Escherichia coli,All Specimens,Overall,Carbapenem (Overall),10.0
+2022,Escherichia coli,Blood,ICU,Ampicillin,95.0
+2022,Escherichia coli,Blood,IPD,Ampicillin,87.0
+2022,Escherichia coli,Blood,OPD,Ampicillin,87.0
+2022,Escherichia coli,Blood,ICU,Amoxicillin-Clavulanic acid,39.0
+2022,Escherichia coli,Blood,IPD,Amoxicillin-Clavulanic acid,30.0
+2022,Escherichia coli,Blood,OPD,Amoxicillin-Clavulanic acid,40.0
+2022,Escherichia coli,Blood,ICU,Cefoperazone-Sulbactam,0.0
+2022,Escherichia coli,Blood,IPD,Cefoperazone-Sulbactam,4.0
+2022,Escherichia coli,Blood,OPD,Cefoperazone-Sulbactam,8.0
+2022,Escherichia coli,Blood,ICU,Piperacillin-Tazobactam,22.0
+2022,Escherichia coli,Blood,IPD,Piperacillin-Tazobactam,23.0
+2022,Escherichia coli,Blood,OPD,Piperacillin-Tazobactam,25.0
+2022,Escherichia coli,Blood,ICU,Cefuroxime,77.0
+2022,Escherichia coli,Blood,IPD,Cefuroxime,70.0
+2022,Escherichia coli,Blood,OPD,Cefuroxime,60.0
+2022,Escherichia coli,Blood,ICU,Ceftriaxone,77.0
+2022,Escherichia coli,Blood,IPD,Ceftriaxone,70.0
+2022,Escherichia coli,Blood,OPD,Ceftriaxone,60.0
+2022,Escherichia coli,Blood,ICU,Cefotaxime,62.0
+2022,Escherichia coli,Blood,IPD,Cefotaxime,67.0
+2022,Escherichia coli,Blood,OPD,Cefotaxime,67.0
+2022,Escherichia coli,Blood,ICU,Cefepime,65.0
+2022,Escherichia coli,Blood,IPD,Cefepime,64.0
+2022,Escherichia coli,Blood,OPD,Cefepime,56.0
+2022,Escherichia coli,Blood,ICU,Ertapenem,44.0
+2022,Escherichia coli,Blood,IPD,Ertapenem,48.0
+2022,Escherichia coli,Blood,OPD,Ertapenem,45.0
+2022,Escherichia coli,Blood,ICU,Imipenem,16.0
+2022,Escherichia coli,Blood,IPD,Imipenem,3.0
+2022,Escherichia coli,Blood,OPD,Imipenem,3.0
+2022,Escherichia coli,Blood,ICU,Meropenem,2.0
+2022,Escherichia coli,Blood,IPD,Meropenem,8.0
+2022,Escherichia coli,Blood,OPD,Meropenem,2.0
+2022,Escherichia coli,Blood,ICU,Amikacin,5.0
+2022,Escherichia coli,Blood,IPD,Amikacin,9.0
+2022,Escherichia coli,Blood,OPD,Amikacin,5.0
+2022,Escherichia coli,Blood,ICU,Gentamicin,3.0
+2022,Escherichia coli,Blood,IPD,Gentamicin,11.0
+2022,Escherichia coli,Blood,OPD,Gentamicin,3.0
+2022,Escherichia coli,Blood,ICU,Ciprofloxacin,54.0
+2022,Escherichia coli,Blood,IPD,Ciprofloxacin,55.0
+2022,Escherichia coli,Blood,OPD,Ciprofloxacin,31.0
+2022,Escherichia coli,Blood,ICU,TMP-SMX,52.0
+2022,Escherichia coli,Blood,IPD,TMP-SMX,67.0
+2022,Escherichia coli,Blood,OPD,TMP-SMX,53.0
+2022,Escherichia coli,Blood,ICU,Colistin,0.0
+2022,Escherichia coli,Blood,IPD,Colistin,0.0
+2022,Escherichia coli,Blood,OPD,Colistin,0.0
+2022,Klebsiella spp.,Blood,Overall,Amoxicillin-Clavulanic acid,52.0
+2022,Klebsiella spp.,Blood,Overall,Cefoperazone-Sulbactam,15.0
+2022,Klebsiella spp.,Blood,Overall,Piperacillin-Tazobactam,56.0
+2022,Klebsiella spp.,Blood,Overall,Cefuroxime,72.0
+2022,Klebsiella spp.,Blood,Overall,Ceftriaxone,71.0
+2022,Klebsiella spp.,Blood,Overall,Cefotaxime,73.0
+2022,Klebsiella spp.,Blood,Overall,Cefepime,63.0
+2022,Klebsiella spp.,Blood,Overall,Ertapenem,37.0
+2022,Klebsiella spp.,Blood,Overall,Imipenem,44.0
+2022,Klebsiella spp.,Blood,Overall,Meropenem,43.0
+2022,Klebsiella spp.,Blood,Overall,Amikacin,34.0
+2022,Klebsiella spp.,Blood,Overall,Gentamicin,50.0
+2022,Klebsiella spp.,Blood,Overall,Ciprofloxacin,70.0
+2022,Klebsiella spp.,Blood,Overall,TMP-SMX,51.0
+2022,Klebsiella spp.,Blood,Overall,Colistin,3.0
+2022,Klebsiella spp.,Blood,Overall,Doxycycline,69.0
+2022,Klebsiella spp.,Blood,Overall,Tigecycline,13.0
+2022,Klebsiella spp.,PA,Overall,Amoxicillin-Clavulanic acid,43.0
+2022,Klebsiella spp.,PA,Overall,Cefoperazone-Sulbactam,8.0
+2022,Klebsiella spp.,PA,Overall,Piperacillin-Tazobactam,45.0
+2022,Klebsiella spp.,PA,Overall,Cefuroxime,65.0
+2022,Klebsiella spp.,PA,Overall,Ceftriaxone,59.0
+2022,Klebsiella spp.,PA,Overall,Cefotaxime,62.0
+2022,Klebsiella spp.,PA,Overall,Cefepime,57.0
+2022,Klebsiella spp.,PA,Overall,Ertapenem,28.0
+2022,Klebsiella spp.,PA,Overall,Imipenem,35.0
+2022,Klebsiella spp.,PA,Overall,Meropenem,33.0
+2022,Klebsiella spp.,PA,Overall,Amikacin,30.0
+2022,Klebsiella spp.,PA,Overall,Gentamicin,39.0
+2022,Klebsiella spp.,PA,Overall,Ciprofloxacin,60.0
+2022,Klebsiella spp.,PA,Overall,TMP-SMX,46.0
+2022,Klebsiella spp.,PA,Overall,Colistin,0.0
+2022,Klebsiella spp.,PA,Overall,Doxycycline,39.0
+2022,Klebsiella spp.,PA,Overall,Tigecycline,2.0
+2022,Klebsiella spp.,OSBF,Overall,Amoxicillin-Clavulanic acid,42.0
+2022,Klebsiella spp.,OSBF,Overall,Cefoperazone-Sulbactam,13.0
+2022,Klebsiella spp.,OSBF,Overall,Piperacillin-Tazobactam,39.0
+2022,Klebsiella spp.,OSBF,Overall,Cefuroxime,58.0
+2022,Klebsiella spp.,OSBF,Overall,Ceftriaxone,53.0
+2022,Klebsiella spp.,OSBF,Overall,Cefotaxime,57.0
+2022,Klebsiella spp.,OSBF,Overall,Cefepime,49.0
+2022,Klebsiella spp.,OSBF,Overall,Ertapenem,22.0
+2022,Klebsiella spp.,OSBF,Overall,Imipenem,34.0
+2022,Klebsiella spp.,OSBF,Overall,Meropenem,27.0
+2022,Klebsiella spp.,OSBF,Overall,Amikacin,23.0
+2022,Klebsiella spp.,OSBF,Overall,Gentamicin,32.0
+2022,Klebsiella spp.,OSBF,Overall,Ciprofloxacin,55.0
+2022,Klebsiella spp.,OSBF,Overall,TMP-SMX,36.0
+2022,Klebsiella spp.,OSBF,Overall,Colistin,0.0
+2022,Klebsiella spp.,OSBF,Overall,Doxycycline,27.0
+2022,Klebsiella spp.,OSBF,Overall,Tigecycline,5.0
+2022,Klebsiella spp.,Urine,Overall,Amoxicillin-Clavulanic acid,38.0
+2022,Klebsiella spp.,Urine,Overall,Cefoperazone-Sulbactam,11.0
+2022,Klebsiella spp.,Urine,Overall,Piperacillin-Tazobactam,34.0
+2022,Klebsiella spp.,Urine,Overall,Cefuroxime,56.0
+2022,Klebsiella spp.,Urine,Overall,Ceftriaxone,54.0
+2022,Klebsiella spp.,Urine,Overall,Cefotaxime,55.0
+2022,Klebsiella spp.,Urine,Overall,Cefepime,45.0
+2022,Klebsiella spp.,Urine,Overall,Ertapenem,18.0
+2022,Klebsiella spp.,Urine,Overall,Imipenem,23.0
+2022,Klebsiella spp.,Urine,Overall,Meropenem,23.0
+2022,Klebsiella spp.,Urine,Overall,Amikacin,19.0
+2022,Klebsiella spp.,Urine,Overall,Gentamicin,26.0
+2022,Klebsiella spp.,Urine,Overall,Ciprofloxacin,54.0
+2022,Klebsiella spp.,Urine,Overall,TMP-SMX,41.0
+2022,Klebsiella spp.,Urine,Overall,Colistin,1.0
+2022,Klebsiella spp.,Urine,Overall,Nitrofurantoin,43.0
+2022,Klebsiella spp.,Blood,ICU,Amoxicillin-Clavulanic acid,23.0
+2022,Klebsiella spp.,Blood,IPD,Amoxicillin-Clavulanic acid,53.0
+2022,Klebsiella spp.,Blood,OPD,Amoxicillin-Clavulanic acid,90.0
+2022,Klebsiella spp.,Blood,ICU,Cefoperazone-Sulbactam,4.0
+2022,Klebsiella spp.,Blood,IPD,Cefoperazone-Sulbactam,21.0
+2022,Klebsiella spp.,Blood,OPD,Cefoperazone-Sulbactam,12.0
+2022,Klebsiella spp.,Blood,ICU,Piperacillin-Tazobactam,50.0
+2022,Klebsiella spp.,Blood,IPD,Piperacillin-Tazobactam,57.0
+2022,Klebsiella spp.,Blood,OPD,Piperacillin-Tazobactam,62.0
+2022,Klebsiella spp.,Blood,ICU,Cefuroxime,64.0
+2022,Klebsiella spp.,Blood,IPD,Cefuroxime,79.0
+2022,Klebsiella spp.,Blood,OPD,Cefuroxime,0.0
+2022,Klebsiella spp.,Blood,ICU,Ceftriaxone,64.0
+2022,Klebsiella spp.,Blood,IPD,Ceftriaxone,79.0
+2022,Klebsiella spp.,Blood,OPD,Ceftriaxone,75.0
+2022,Klebsiella spp.,Blood,ICU,Cefotaxime,59.0
+2022,Klebsiella spp.,Blood,IPD,Cefotaxime,82.0
+2022,Klebsiella spp.,Blood,OPD,Cefotaxime,75.0
+2022,Klebsiella spp.,Blood,ICU,Cefepime,67.0
+2022,Klebsiella spp.,Blood,IPD,Cefepime,82.0
+2022,Klebsiella spp.,Blood,OPD,Cefepime,77.0
+2022,Klebsiella spp.,Blood,ICU,Ertapenem,37.0
+2022,Klebsiella spp.,Blood,IPD,Ertapenem,36.0
+2022,Klebsiella spp.,Blood,OPD,Ertapenem,36.0
+2022,Klebsiella spp.,Blood,ICU,Imipenem,40.0
+2022,Klebsiella spp.,Blood,IPD,Imipenem,52.0
+2022,Klebsiella spp.,Blood,OPD,Imipenem,39.0
+2022,Klebsiella spp.,Blood,ICU,Meropenem,47.0
+2022,Klebsiella spp.,Blood,IPD,Meropenem,52.0
+2022,Klebsiella spp.,Blood,OPD,Meropenem,47.0
+2022,Klebsiella spp.,Blood,ICU,Amikacin,33.0
+2022,Klebsiella spp.,Blood,IPD,Amikacin,36.0
+2022,Klebsiella spp.,Blood,OPD,Amikacin,38.0
+2022,Klebsiella spp.,Blood,ICU,Gentamicin,50.0
+2022,Klebsiella spp.,Blood,IPD,Gentamicin,52.0
+2022,Klebsiella spp.,Blood,OPD,Gentamicin,35.0
+2022,Klebsiella spp.,Blood,ICU,Ciprofloxacin,67.0
+2022,Klebsiella spp.,Blood,IPD,Ciprofloxacin,75.0
+2022,Klebsiella spp.,Blood,OPD,Ciprofloxacin,65.0
+2022,Klebsiella spp.,Blood,ICU,TMP-SMX,47.0
+2022,Klebsiella spp.,Blood,IPD,TMP-SMX,54.0
+2022,Klebsiella spp.,Blood,OPD,TMP-SMX,54.0
+2022,Klebsiella spp.,Blood,ICU,Colistin,2.0
+2022,Klebsiella spp.,Blood,IPD,Colistin,0.0
+2022,Klebsiella spp.,Blood,OPD,Colistin,0.0
+2022,Klebsiella spp.,Blood,ICU,Doxycycline,73.0
+2022,Klebsiella spp.,Blood,IPD,Doxycycline,54.0
+2022,Klebsiella spp.,Blood,OPD,Doxycycline,0.0
+2022,Klebsiella spp.,Blood,ICU,Tigecycline,15.0
+2022,Klebsiella spp.,Blood,IPD,Tigecycline,21.0
+2022,Klebsiella spp.,Blood,OPD,Tigecycline,0.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Ampicillin,26.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Ceftriaxone,4.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Imipenem,0.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Ciprofloxacin,42.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Azithromycin,7.0
+2022,Salmonella Typhi,Blood+Stool,Overall,Chloramphenicol,5.0
+2022,Salmonella Paratyphi A,Blood+Stool,Overall,Ciprofloxacin,100.0
+2022,Salmonella Paratyphi B,Blood+Stool,Overall,Ampicillin,100.0
+2022,Salmonella Paratyphi B,Blood+Stool,Overall,Ceftriaxone,100.0
+2022,Salmonella Paratyphi B,Blood+Stool,Overall,Ciprofloxacin,100.0
+2022,Pseudomonas spp.,Blood,Overall,Piperacillin-Tazobactam,17.0
+2022,Pseudomonas spp.,Blood,Overall,Ceftazidime,36.0
+2022,Pseudomonas spp.,Blood,Overall,Aztreonam,21.0
+2022,Pseudomonas spp.,Blood,Overall,Imipenem,15.0
+2022,Pseudomonas spp.,Blood,Overall,Meropenem,14.0
+2022,Pseudomonas spp.,Blood,Overall,Amikacin,23.0
+2022,Pseudomonas spp.,Blood,Overall,Gentamicin,28.0
+2022,Pseudomonas spp.,Blood,Overall,Ciprofloxacin,26.0
+2022,Pseudomonas spp.,Blood,Overall,Colistin,0.0
+2022,Pseudomonas spp.,PA,Overall,Piperacillin-Tazobactam,16.0
+2022,Pseudomonas spp.,PA,Overall,Ceftazidime,34.0
+2022,Pseudomonas spp.,PA,Overall,Aztreonam,20.0
+2022,Pseudomonas spp.,PA,Overall,Imipenem,17.0
+2022,Pseudomonas spp.,PA,Overall,Meropenem,13.0
+2022,Pseudomonas spp.,PA,Overall,Amikacin,20.0
+2022,Pseudomonas spp.,PA,Overall,Gentamicin,28.0
+2022,Pseudomonas spp.,PA,Overall,Ciprofloxacin,35.0
+2022,Pseudomonas spp.,PA,Overall,Colistin,0.0
+2022,Pseudomonas spp.,OSBF,Overall,Piperacillin-Tazobactam,19.0
+2022,Pseudomonas spp.,OSBF,Overall,Ceftazidime,39.0
+2022,Pseudomonas spp.,OSBF,Overall,Aztreonam,33.0
+2022,Pseudomonas spp.,OSBF,Overall,Imipenem,26.0
+2022,Pseudomonas spp.,OSBF,Overall,Meropenem,24.0
+2022,Pseudomonas spp.,OSBF,Overall,Amikacin,29.0
+2022,Pseudomonas spp.,OSBF,Overall,Gentamicin,35.0
+2022,Pseudomonas spp.,OSBF,Overall,Ciprofloxacin,42.0
+2022,Pseudomonas spp.,OSBF,Overall,Colistin,0.0
+2022,Pseudomonas spp.,Urine,Overall,Piperacillin-Tazobactam,15.0
+2022,Pseudomonas spp.,Urine,Overall,Ceftazidime,32.0
+2022,Pseudomonas spp.,Urine,Overall,Aztreonam,27.0
+2022,Pseudomonas spp.,Urine,Overall,Imipenem,24.0
+2022,Pseudomonas spp.,Urine,Overall,Meropenem,22.0
+2022,Pseudomonas spp.,Urine,Overall,Amikacin,22.0
+2022,Pseudomonas spp.,Urine,Overall,Gentamicin,24.0
+2022,Pseudomonas spp.,Urine,Overall,Ciprofloxacin,34.0
+2022,Pseudomonas spp.,Urine,Overall,Colistin,0.0
+2022,Pseudomonas spp.,Blood,ICU,Piperacillin-Tazobactam,27.0
+2022,Pseudomonas spp.,Blood,IPD,Piperacillin-Tazobactam,14.0
+2022,Pseudomonas spp.,Blood,OPD,Piperacillin-Tazobactam,14.0
+2022,Pseudomonas spp.,Blood,ICU,Ceftazidime,52.0
+2022,Pseudomonas spp.,Blood,IPD,Ceftazidime,23.0
+2022,Pseudomonas spp.,Blood,OPD,Ceftazidime,33.0
+2022,Pseudomonas spp.,Blood,ICU,Aztreonam,63.0
+2022,Pseudomonas spp.,Blood,IPD,Aztreonam,0.0
+2022,Pseudomonas spp.,Blood,OPD,Aztreonam,15.0
+2022,Pseudomonas spp.,Blood,ICU,Imipenem,17.0
+2022,Pseudomonas spp.,Blood,IPD,Imipenem,14.0
+2022,Pseudomonas spp.,Blood,OPD,Imipenem,14.0
+2022,Pseudomonas spp.,Blood,ICU,Meropenem,15.0
+2022,Pseudomonas spp.,Blood,IPD,Meropenem,15.0
+2022,Pseudomonas spp.,Blood,OPD,Meropenem,13.0
+2022,Pseudomonas spp.,Blood,ICU,Amikacin,29.0
+2022,Pseudomonas spp.,Blood,IPD,Amikacin,17.0
+2022,Pseudomonas spp.,Blood,OPD,Amikacin,22.0
+2022,Pseudomonas spp.,Blood,ICU,Gentamicin,34.0
+2022,Pseudomonas spp.,Blood,IPD,Gentamicin,26.0
+2022,Pseudomonas spp.,Blood,OPD,Gentamicin,23.0
+2022,Pseudomonas spp.,Blood,ICU,Ciprofloxacin,32.0
+2022,Pseudomonas spp.,Blood,IPD,Ciprofloxacin,34.0
+2022,Pseudomonas spp.,Blood,OPD,Ciprofloxacin,17.0
+2022,Pseudomonas spp.,Blood,ICU,Colistin,0.0
+2022,Pseudomonas spp.,Blood,IPD,Colistin,0.0
+2022,Pseudomonas spp.,Blood,OPD,Colistin,0.0
+2022,Acinetobacter spp.,Blood,Overall,Cefoperazone-Sulbactam,9.0
+2022,Acinetobacter spp.,Blood,Overall,Ampicillin-Sulbactam,29.0
+2022,Acinetobacter spp.,Blood,Overall,Piperacillin-Tazobactam,48.0
+2022,Acinetobacter spp.,Blood,Overall,Ceftazidime,60.0
+2022,Acinetobacter spp.,Blood,Overall,Imipenem,53.0
+2022,Acinetobacter spp.,Blood,Overall,Meropenem,47.0
+2022,Acinetobacter spp.,Blood,Overall,Amikacin,41.0
+2022,Acinetobacter spp.,Blood,Overall,Gentamicin,46.0
+2022,Acinetobacter spp.,Blood,Overall,Ciprofloxacin,49.0
+2022,Acinetobacter spp.,Blood,Overall,TMP-SMX,44.0
+2022,Acinetobacter spp.,Blood,Overall,Colistin,0.0
+2022,Acinetobacter spp.,Blood,Overall,Minocycline,27.0
+2022,Acinetobacter spp.,Blood,Overall,Tigecycline,1.0
+2022,Acinetobacter spp.,PA,Overall,Cefoperazone-Sulbactam,2.0
+2022,Acinetobacter spp.,PA,Overall,Ampicillin-Sulbactam,48.0
+2022,Acinetobacter spp.,PA,Overall,Piperacillin-Tazobactam,63.0
+2022,Acinetobacter spp.,PA,Overall,Ceftazidime,68.0
+2022,Acinetobacter spp.,PA,Overall,Imipenem,66.0
+2022,Acinetobacter spp.,PA,Overall,Meropenem,61.0
+2022,Acinetobacter spp.,PA,Overall,Amikacin,58.0
+2022,Acinetobacter spp.,PA,Overall,Gentamicin,61.0
+2022,Acinetobacter spp.,PA,Overall,Ciprofloxacin,66.0
+2022,Acinetobacter spp.,PA,Overall,TMP-SMX,57.0
+2022,Acinetobacter spp.,PA,Overall,Colistin,0.0
+2022,Acinetobacter spp.,PA,Overall,Minocycline,31.0
+2022,Acinetobacter spp.,PA,Overall,Tigecycline,1.0
+2022,Acinetobacter spp.,OSBF,Overall,Cefoperazone-Sulbactam,12.0
+2022,Acinetobacter spp.,OSBF,Overall,Ampicillin-Sulbactam,0.0
+2022,Acinetobacter spp.,OSBF,Overall,Piperacillin-Tazobactam,56.0
+2022,Acinetobacter spp.,OSBF,Overall,Ceftazidime,77.0
+2022,Acinetobacter spp.,OSBF,Overall,Imipenem,72.0
+2022,Acinetobacter spp.,OSBF,Overall,Meropenem,64.0
+2022,Acinetobacter spp.,OSBF,Overall,Amikacin,58.0
+2022,Acinetobacter spp.,OSBF,Overall,Gentamicin,65.0
+2022,Acinetobacter spp.,OSBF,Overall,Ciprofloxacin,68.0
+2022,Acinetobacter spp.,OSBF,Overall,TMP-SMX,47.0
+2022,Acinetobacter spp.,OSBF,Overall,Colistin,0.0
+2022,Acinetobacter spp.,OSBF,Overall,Minocycline,38.0
+2022,Acinetobacter spp.,OSBF,Overall,Tigecycline,0.0
+2022,Acinetobacter spp.,Urine,Overall,Cefoperazone-Sulbactam,7.0
+2022,Acinetobacter spp.,Urine,Overall,Ampicillin-Sulbactam,33.0
+2022,Acinetobacter spp.,Urine,Overall,Piperacillin-Tazobactam,29.0
+2022,Acinetobacter spp.,Urine,Overall,Ceftazidime,39.0
+2022,Acinetobacter spp.,Urine,Overall,Imipenem,36.0
+2022,Acinetobacter spp.,Urine,Overall,Meropenem,31.0
+2022,Acinetobacter spp.,Urine,Overall,Amikacin,29.0
+2022,Acinetobacter spp.,Urine,Overall,Gentamicin,32.0
+2022,Acinetobacter spp.,Urine,Overall,Ciprofloxacin,37.0
+2022,Acinetobacter spp.,Urine,Overall,TMP-SMX,21.0
+2022,Acinetobacter spp.,Urine,Overall,Colistin,0.0
+2022,Acinetobacter spp.,Urine,Overall,Minocycline,14.0
+2022,Acinetobacter spp.,Urine,Overall,Tigecycline,6.0
+2022,Acinetobacter spp.,Urine,Overall,Tetracycline,26.0
+2022,Acinetobacter spp.,Blood,ICU,Cefoperazone-Sulbactam,12.0
+2022,Acinetobacter spp.,Blood,IPD,Cefoperazone-Sulbactam,0.0
+2022,Acinetobacter spp.,Blood,OPD,Cefoperazone-Sulbactam,0.0
+2022,Acinetobacter spp.,Blood,ICU,Ampicillin-Sulbactam,53.0
+2022,Acinetobacter spp.,Blood,IPD,Ampicillin-Sulbactam,11.0
+2022,Acinetobacter spp.,Blood,OPD,Ampicillin-Sulbactam,0.0
+2022,Acinetobacter spp.,Blood,ICU,Piperacillin-Tazobactam,62.0
+2022,Acinetobacter spp.,Blood,IPD,Piperacillin-Tazobactam,35.0
+2022,Acinetobacter spp.,Blood,OPD,Piperacillin-Tazobactam,0.0
+2022,Acinetobacter spp.,Blood,ICU,Ceftazidime,75.0
+2022,Acinetobacter spp.,Blood,IPD,Ceftazidime,48.0
+2022,Acinetobacter spp.,Blood,OPD,Ceftazidime,0.0
+2022,Acinetobacter spp.,Blood,ICU,Imipenem,67.0
+2022,Acinetobacter spp.,Blood,IPD,Imipenem,41.0
+2022,Acinetobacter spp.,Blood,OPD,Imipenem,11.0
+2022,Acinetobacter spp.,Blood,ICU,Meropenem,62.0
+2022,Acinetobacter spp.,Blood,IPD,Meropenem,39.0
+2022,Acinetobacter spp.,Blood,OPD,Meropenem,35.0
+2022,Acinetobacter spp.,Blood,ICU,Amikacin,60.0
+2022,Acinetobacter spp.,Blood,IPD,Amikacin,30.0
+2022,Acinetobacter spp.,Blood,OPD,Amikacin,33.0
+2022,Acinetobacter spp.,Blood,ICU,Gentamicin,64.0
+2022,Acinetobacter spp.,Blood,IPD,Gentamicin,37.0
+2022,Acinetobacter spp.,Blood,OPD,Gentamicin,27.0
+2022,Acinetobacter spp.,Blood,ICU,Ciprofloxacin,61.0
+2022,Acinetobacter spp.,Blood,IPD,Ciprofloxacin,43.0
+2022,Acinetobacter spp.,Blood,OPD,Ciprofloxacin,20.0
+2022,Acinetobacter spp.,Blood,ICU,TMP-SMX,61.0
+2022,Acinetobacter spp.,Blood,IPD,TMP-SMX,33.0
+2022,Acinetobacter spp.,Blood,OPD,TMP-SMX,24.0
+2022,Acinetobacter spp.,Blood,ICU,Colistin,0.0
+2022,Acinetobacter spp.,Blood,IPD,Colistin,0.0
+2022,Acinetobacter spp.,Blood,OPD,Colistin,25.0
+2022,Acinetobacter spp.,Blood,ICU,Minocycline,36.0
+2022,Acinetobacter spp.,Blood,IPD,Minocycline,20.0
+2022,Acinetobacter spp.,Blood,OPD,Minocycline,25.0
+2022,Acinetobacter spp.,Blood,ICU,Tigecycline,0.0
+2022,Acinetobacter spp.,Blood,IPD,Tigecycline,1.0
+2022,Acinetobacter spp.,Blood,OPD,Tigecycline,0.0
+2018,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),43.5
+2018,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),52.9
+2018,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),34.3
+2018,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),30.0
+2019,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),33.4
+2019,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),53.1
+2019,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),27.4
+2019,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),26.5
+2021,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),67.0
+2021,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),62.0
+2021,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),63.0
+2021,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),28.0
+2022,Acinetobacter spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),61.8
+2022,Escherichia coli,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),62.6
+2022,Klebsiella spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),59.3
+2022,Pseudomonas spp.,All Specimens,Overall,ESBL (3rd-gen Cephalosporins),33.7
+2018,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),32.0
+2018,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),10.3
+2018,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),19.9
+2018,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),15.9
+2019,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),30.4
+2019,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),4.36
+2019,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),16.48
+2019,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),6.92
+2021,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),54.0
+2021,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),10.0
+2021,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),32.0
+2021,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),14.0
+2022,Acinetobacter spp.,All Specimens,Overall,Carbapenem (Trend),51.95
+2022,Escherichia coli,All Specimens,Overall,Carbapenem (Trend),9.58
+2022,Klebsiella spp.,All Specimens,Overall,Carbapenem (Trend),29.3
+2022,Pseudomonas spp.,All Specimens,Overall,Carbapenem (Trend),16.06
+2018,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),36.67
+2019,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),38.95
+2021,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),20.0
+2022,Staphylococcus aureus,All Specimens,Overall,MRSA (Cefoxitin),27.47
+2018,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),0.62
+2019,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),0.26
+2021,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),5.0
+2022,Enterococcus spp.,All Specimens,Overall,VRE (Vancomycin),3.25
+2023,Staphylococcus aureus,Blood,Overall,Cefoxitin (MRSA),33.0
+2023,Staphylococcus aureus,Blood,Overall,Gentamicin,19.0
+2023,Staphylococcus aureus,Blood,Overall,Ciprofloxacin,46.0
+2023,Staphylococcus aureus,Blood,Overall,Co-trimoxazole,14.0
+2023,Staphylococcus aureus,Blood,Overall,Clindamycin,27.0
+2023,Staphylococcus aureus,Blood,Overall,Erythromycin,64.0
+2023,Staphylococcus aureus,Blood,Overall,Linezolid,0.0
+2023,Staphylococcus aureus,Blood,Overall,Teicoplanin,1.0
+2023,Staphylococcus aureus,Blood,Overall,Vancomycin,0.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Cefoxitin (MRSA),29.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Gentamicin,13.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Ciprofloxacin,47.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Co-trimoxazole,8.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Clindamycin,18.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Erythromycin,53.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Linezolid,0.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Teicoplanin,1.0
+2023,Staphylococcus aureus,Pus Aspirate,Overall,Vancomycin,0.0
+2023,Staphylococcus aureus,OSBF,Overall,Cefoxitin (MRSA),33.0
+2023,Staphylococcus aureus,OSBF,Overall,Gentamicin,23.0
+2023,Staphylococcus aureus,OSBF,Overall,Ciprofloxacin,45.0
+2023,Staphylococcus aureus,OSBF,Overall,Co-trimoxazole,5.0
+2023,Staphylococcus aureus,OSBF,Overall,Clindamycin,26.0
+2023,Staphylococcus aureus,OSBF,Overall,Erythromycin,61.0
+2023,Staphylococcus aureus,OSBF,Overall,Linezolid,0.0
+2023,Staphylococcus aureus,OSBF,Overall,Vancomycin,0.0
+2023,Staphylococcus aureus,Blood,ICU,Cefoxitin (MRSA),31.0
+2023,Staphylococcus aureus,Blood,ICU,Amikacin,0.0
+2023,Staphylococcus aureus,Blood,ICU,Gentamicin,19.0
+2023,Staphylococcus aureus,Blood,ICU,Ciprofloxacin,47.0
+2023,Staphylococcus aureus,Blood,ICU,Co-trimoxazole,13.0
+2023,Staphylococcus aureus,Blood,ICU,Clindamycin,28.0
+2023,Staphylococcus aureus,Blood,ICU,Erythromycin,63.0
+2023,Staphylococcus aureus,Blood,ICU,Linezolid,0.0
+2023,Staphylococcus aureus,Blood,ICU,Teicoplanin,0.0
+2023,Staphylococcus aureus,Blood,ICU,Doxycycline,1.0
+2023,Staphylococcus aureus,Blood,ICU,Vancomycin,0.0
+2023,Staphylococcus aureus,Blood,IPD,Cefoxitin (MRSA),34.0
+2023,Staphylococcus aureus,Blood,IPD,Amikacin,10.0
+2023,Staphylococcus aureus,Blood,IPD,Gentamicin,19.0
+2023,Staphylococcus aureus,Blood,IPD,Ciprofloxacin,44.0
+2023,Staphylococcus aureus,Blood,IPD,Co-trimoxazole,16.0
+2023,Staphylococcus aureus,Blood,IPD,Clindamycin,26.0
+2023,Staphylococcus aureus,Blood,IPD,Erythromycin,66.0
+2023,Staphylococcus aureus,Blood,IPD,Linezolid,0.0
+2023,Staphylococcus aureus,Blood,IPD,Teicoplanin,1.0
+2023,Staphylococcus aureus,Blood,IPD,Doxycycline,5.0
+2023,Staphylococcus aureus,Blood,IPD,Vancomycin,0.0
+2023,Staphylococcus aureus,Blood,OPD,Cefoxitin (MRSA),39.0
+2023,Staphylococcus aureus,Blood,OPD,Amikacin,5.0
+2023,Staphylococcus aureus,Blood,OPD,Gentamicin,15.0
+2023,Staphylococcus aureus,Blood,OPD,Ciprofloxacin,56.0
+2023,Staphylococcus aureus,Blood,OPD,Co-trimoxazole,7.0
+2023,Staphylococcus aureus,Blood,OPD,Clindamycin,29.0
+2023,Staphylococcus aureus,Blood,OPD,Erythromycin,59.0
+2023,Staphylococcus aureus,Blood,OPD,Linezolid,0.0
+2023,Staphylococcus aureus,Blood,OPD,Teicoplanin,0.0
+2023,Staphylococcus aureus,Blood,OPD,Doxycycline,0.0
+2023,Staphylococcus aureus,Blood,OPD,Vancomycin,0.0
+2023,Staphylococcus aureus,All Specimens,Overall,Cefoxitin (MRSA),29.8
+2023,Enterococcus species,Blood,Overall,Ampicillin,38.0
+2023,Enterococcus species,Blood,Overall,Gentamicin HLAR,30.0
+2023,Enterococcus species,Blood,Overall,Erythromycin,78.0
+2023,Enterococcus species,Blood,Overall,Linezolid,0.0
+2023,Enterococcus species,Blood,Overall,Vancomycin,3.0
+2023,Enterococcus species,Blood,Overall,Teicoplanin,5.0
+2023,Enterococcus species,Blood,Overall,Doxycycline,46.0
+2023,Enterococcus species,Pus Aspirate,Overall,Ampicillin,19.0
+2023,Enterococcus species,Pus Aspirate,Overall,Gentamicin HLAR,22.0
+2023,Enterococcus species,Pus Aspirate,Overall,Erythromycin,72.0
+2023,Enterococcus species,Pus Aspirate,Overall,Linezolid,0.1
+2023,Enterococcus species,Pus Aspirate,Overall,Vancomycin,1.0
+2023,Enterococcus species,Pus Aspirate,Overall,Teicoplanin,2.0
+2023,Enterococcus species,Pus Aspirate,Overall,Doxycycline,23.0
+2023,Enterococcus species,Pus Aspirate,Overall,Tetracycline,74.0
+2023,Enterococcus species,OSBF,Overall,Ampicillin,46.0
+2023,Enterococcus species,OSBF,Overall,Gentamicin HLAR,33.0
+2023,Enterococcus species,OSBF,Overall,Erythromycin,68.0
+2023,Enterococcus species,OSBF,Overall,Linezolid,0.0
+2023,Enterococcus species,OSBF,Overall,Vancomycin,0.0
+2023,Enterococcus species,OSBF,Overall,Doxycycline,50.0
+2023,Enterococcus species,Urine,Overall,Ampicillin,42.0
+2023,Enterococcus species,Urine,Overall,Gentamicin HLAR,35.0
+2023,Enterococcus species,Urine,Overall,Ciprofloxacin,71.0
+2023,Enterococcus species,Urine,Overall,Linezolid,0.1
+2023,Enterococcus species,Urine,Overall,Vancomycin,2.0
+2023,Enterococcus species,Urine,Overall,Teicoplanin,2.0
+2023,Enterococcus species,Urine,Overall,Tetracycline,70.0
+2023,Enterococcus species,Urine,Overall,Fosfomycin,28.0
+2023,Enterococcus species,Urine,Overall,Nitrofurantoin,30.0
+2023,Enterococcus species,Blood,ICU,Ampicillin,42.0
+2023,Enterococcus species,Blood,ICU,Gentamicin HLAR,32.0
+2023,Enterococcus species,Blood,ICU,Erythromycin,77.0
+2023,Enterococcus species,Blood,ICU,Linezolid,0.0
+2023,Enterococcus species,Blood,ICU,Vancomycin,2.0
+2023,Enterococcus species,Blood,ICU,Teicoplanin,3.0
+2023,Enterococcus species,Blood,ICU,Doxycycline,52.0
+2023,Enterococcus species,Blood,IPD,Ampicillin,37.0
+2023,Enterococcus species,Blood,IPD,Gentamicin HLAR,28.0
+2023,Enterococcus species,Blood,IPD,Erythromycin,81.0
+2023,Enterococcus species,Blood,IPD,Linezolid,0.0
+2023,Enterococcus species,Blood,IPD,Vancomycin,5.0
+2023,Enterococcus species,Blood,IPD,Teicoplanin,8.0
+2023,Enterococcus species,Blood,IPD,Doxycycline,42.0
+2023,Enterococcus species,Blood,OPD,Ampicillin,20.0
+2023,Enterococcus species,Blood,OPD,Gentamicin HLAR,30.0
+2023,Enterococcus species,Blood,OPD,Erythromycin,71.0
+2023,Enterococcus species,Blood,OPD,Linezolid,0.0
+2023,Enterococcus species,Blood,OPD,Vancomycin,0.0
+2023,Enterococcus species,Blood,OPD,Teicoplanin,0.0
+2023,Enterococcus species,Blood,OPD,Doxycycline,30.0
+2023,Enterococcus species,All Specimens,Overall,Vancomycin (VRE),1.8
+2023,Escherichia coli,Blood,Overall,Ampicillin,88.0
+2023,Escherichia coli,Blood,Overall,Co-amoxyclav,33.0
+2023,Escherichia coli,Blood,Overall,Piperacillin/Tazobactam,21.0
+2023,Escherichia coli,Blood,Overall,Cefuroxime,72.0
+2023,Escherichia coli,Blood,Overall,Ceftriaxone,68.0
+2023,Escherichia coli,Blood,Overall,Cefotaxime,71.0
+2023,Escherichia coli,Blood,Overall,Cefepime,53.0
+2023,Escherichia coli,Blood,Overall,Ertapenem,12.0
+2023,Escherichia coli,Blood,Overall,Imipenem,11.0
+2023,Escherichia coli,Blood,Overall,Meropenem,11.0
+2023,Escherichia coli,Blood,Overall,Amikacin,15.0
+2023,Escherichia coli,Blood,Overall,Gentamicin,30.0
+2023,Escherichia coli,Blood,Overall,Ciprofloxacin,66.0
+2023,Escherichia coli,Blood,Overall,Co-trimoxazole,47.0
+2023,Escherichia coli,Blood,Overall,Colistin,0.31
+2023,Escherichia coli,Blood,Overall,Doxycycline,27.0
+2023,Escherichia coli,Pus Aspirate,Overall,Ampicillin,89.0
+2023,Escherichia coli,Pus Aspirate,Overall,Co-amoxyclav,38.0
+2023,Escherichia coli,Pus Aspirate,Overall,Piperacillin/Tazobactam,21.0
+2023,Escherichia coli,Pus Aspirate,Overall,Cefuroxime,68.0
+2023,Escherichia coli,Pus Aspirate,Overall,Ceftriaxone,66.0
+2023,Escherichia coli,Pus Aspirate,Overall,Cefotaxime,65.0
+2023,Escherichia coli,Pus Aspirate,Overall,Cefepime,46.0
+2023,Escherichia coli,Pus Aspirate,Overall,Ertapenem,12.0
+2023,Escherichia coli,Pus Aspirate,Overall,Imipenem,11.0
+2023,Escherichia coli,Pus Aspirate,Overall,Meropenem,9.0
+2023,Escherichia coli,Pus Aspirate,Overall,Amikacin,16.0
+2023,Escherichia coli,Pus Aspirate,Overall,Gentamicin,26.0
+2023,Escherichia coli,Pus Aspirate,Overall,Ciprofloxacin,60.0
+2023,Escherichia coli,Pus Aspirate,Overall,Co-trimoxazole,44.0
+2023,Escherichia coli,Pus Aspirate,Overall,Colistin,0.0
+2023,Escherichia coli,OSBF,Overall,Ampicillin,87.0
+2023,Escherichia coli,OSBF,Overall,Co-amoxyclav,37.0
+2023,Escherichia coli,OSBF,Overall,Piperacillin/Tazobactam,25.0
+2023,Escherichia coli,OSBF,Overall,Cefuroxime,64.0
+2023,Escherichia coli,OSBF,Overall,Ceftriaxone,64.0
+2023,Escherichia coli,OSBF,Overall,Cefotaxime,63.0
+2023,Escherichia coli,OSBF,Overall,Cefepime,44.0
+2023,Escherichia coli,OSBF,Overall,Ertapenem,21.0
+2023,Escherichia coli,OSBF,Overall,Imipenem,20.0
+2023,Escherichia coli,OSBF,Overall,Meropenem,16.0
+2023,Escherichia coli,OSBF,Overall,Amikacin,19.0
+2023,Escherichia coli,OSBF,Overall,Gentamicin,31.0
+2023,Escherichia coli,OSBF,Overall,Ciprofloxacin,62.0
+2023,Escherichia coli,OSBF,Overall,Co-trimoxazole,39.0
+2023,Escherichia coli,OSBF,Overall,Colistin,0.0
+2023,Escherichia coli,Urine,Overall,Ampicillin,85.0
+2023,Escherichia coli,Urine,Overall,Co-amoxyclav,28.0
+2023,Escherichia coli,Urine,Overall,Piperacillin/Tazobactam,15.0
+2023,Escherichia coli,Urine,Overall,Cefuroxime,61.0
+2023,Escherichia coli,Urine,Overall,Ceftriaxone,64.0
+2023,Escherichia coli,Urine,Overall,Cefotaxime,61.0
+2023,Escherichia coli,Urine,Overall,Cefepime,45.0
+2023,Escherichia coli,Urine,Overall,Ertapenem,6.0
+2023,Escherichia coli,Urine,Overall,Imipenem,7.0
+2023,Escherichia coli,Urine,Overall,Meropenem,6.0
+2023,Escherichia coli,Urine,Overall,Amikacin,12.0
+2023,Escherichia coli,Urine,Overall,Gentamicin,20.0
+2023,Escherichia coli,Urine,Overall,Ciprofloxacin,54.0
+2023,Escherichia coli,Urine,Overall,Co-trimoxazole,39.0
+2023,Escherichia coli,Urine,Overall,Colistin,0.04
+2023,Escherichia coli,Urine,Overall,Fosfomycin,2.0
+2023,Escherichia coli,Urine,Overall,Nitrofurantoin,10.0
+2023,Escherichia coli,Blood,Overall,ESBL,71.0
+2023,Escherichia coli,Blood,ICU,Ampicillin,96.0
+2023,Escherichia coli,Blood,ICU,Amoxicillin/Clavulanic acid,35.0
+2023,Escherichia coli,Blood,ICU,Piperacillin/Tazobactam,21.0
+2023,Escherichia coli,Blood,ICU,Ceftriaxone,72.0
+2023,Escherichia coli,Blood,ICU,Cefotaxime,74.0
+2023,Escherichia coli,Blood,ICU,Cefepime,55.0
+2023,Escherichia coli,Blood,ICU,Ertapenem,14.0
+2023,Escherichia coli,Blood,ICU,Imipenem,11.0
+2023,Escherichia coli,Blood,ICU,Meropenem,11.0
+2023,Escherichia coli,Blood,ICU,Amikacin,13.0
+2023,Escherichia coli,Blood,ICU,Gentamicin,28.0
+2023,Escherichia coli,Blood,ICU,Ciprofloxacin,63.0
+2023,Escherichia coli,Blood,ICU,Co-trimoxazole,41.0
+2023,Escherichia coli,Blood,ICU,Colistin,0.0
+2023,Escherichia coli,Blood,ICU,Cefuroxime,71.0
+2023,Escherichia coli,Blood,IPD,Ampicillin,87.0
+2023,Escherichia coli,Blood,IPD,Amoxicillin/Clavulanic acid,33.0
+2023,Escherichia coli,Blood,IPD,Piperacillin/Tazobactam,22.0
+2023,Escherichia coli,Blood,IPD,Ceftriaxone,68.0
+2023,Escherichia coli,Blood,IPD,Cefotaxime,69.0
+2023,Escherichia coli,Blood,IPD,Cefepime,53.0
+2023,Escherichia coli,Blood,IPD,Ertapenem,12.0
+2023,Escherichia coli,Blood,IPD,Imipenem,12.0
+2023,Escherichia coli,Blood,IPD,Meropenem,11.0
+2023,Escherichia coli,Blood,IPD,Amikacin,16.0
+2023,Escherichia coli,Blood,IPD,Gentamicin,31.0
+2023,Escherichia coli,Blood,IPD,Ciprofloxacin,70.0
+2023,Escherichia coli,Blood,IPD,Co-trimoxazole,52.0
+2023,Escherichia coli,Blood,IPD,Colistin,0.5
+2023,Escherichia coli,Blood,IPD,Cefuroxime,73.0
+2023,Escherichia coli,Blood,OPD,Ampicillin,76.0
+2023,Escherichia coli,Blood,OPD,Amoxicillin/Clavulanic acid,29.0
+2023,Escherichia coli,Blood,OPD,Piperacillin/Tazobactam,15.0
+2023,Escherichia coli,Blood,OPD,Ceftriaxone,60.0
+2023,Escherichia coli,Blood,OPD,Cefotaxime,65.0
+2023,Escherichia coli,Blood,OPD,Cefepime,50.0
+2023,Escherichia coli,Blood,OPD,Ertapenem,4.0
+2023,Escherichia coli,Blood,OPD,Imipenem,6.0
+2023,Escherichia coli,Blood,OPD,Meropenem,8.0
+2023,Escherichia coli,Blood,OPD,Amikacin,18.0
+2023,Escherichia coli,Blood,OPD,Gentamicin,25.0
+2023,Escherichia coli,Blood,OPD,Ciprofloxacin,54.0
+2023,Escherichia coli,Blood,OPD,Co-trimoxazole,35.0
+2023,Escherichia coli,Blood,OPD,Colistin,0.0
+2023,Escherichia coli,Blood,OPD,Cefuroxime,67.0
+2023,Klebsiella species,Blood,Overall,Co-amoxyclav,54.0
+2023,Klebsiella species,Blood,Overall,Piperacillin/Tazobactam,56.0
+2023,Klebsiella species,Blood,Overall,Cefuroxime,69.0
+2023,Klebsiella species,Blood,Overall,Ceftriaxone,69.0
+2023,Klebsiella species,Blood,Overall,Cefotaxime,74.0
+2023,Klebsiella species,Blood,Overall,Cefepime,64.0
+2023,Klebsiella species,Blood,Overall,Ertapenem,42.0
+2023,Klebsiella species,Blood,Overall,Imipenem,41.0
+2023,Klebsiella species,Blood,Overall,Meropenem,43.0
+2023,Klebsiella species,Blood,Overall,Amikacin,47.0
+2023,Klebsiella species,Blood,Overall,Gentamicin,49.0
+2023,Klebsiella species,Blood,Overall,Ciprofloxacin,66.0
+2023,Klebsiella species,Blood,Overall,Co-trimoxazole,53.0
+2023,Klebsiella species,Blood,Overall,Colistin,2.0
+2023,Klebsiella species,Blood,Overall,Doxycycline,18.0
+2023,Klebsiella species,Pus Aspirate,Overall,Co-amoxyclav,52.0
+2023,Klebsiella species,Pus Aspirate,Overall,Piperacillin/Tazobactam,45.0
+2023,Klebsiella species,Pus Aspirate,Overall,Cefuroxime,67.0
+2023,Klebsiella species,Pus Aspirate,Overall,Ceftriaxone,62.0
+2023,Klebsiella species,Pus Aspirate,Overall,Cefotaxime,64.0
+2023,Klebsiella species,Pus Aspirate,Overall,Cefepime,56.0
+2023,Klebsiella species,Pus Aspirate,Overall,Ertapenem,38.0
+2023,Klebsiella species,Pus Aspirate,Overall,Imipenem,35.0
+2023,Klebsiella species,Pus Aspirate,Overall,Meropenem,34.0
+2023,Klebsiella species,Pus Aspirate,Overall,Amikacin,36.0
+2023,Klebsiella species,Pus Aspirate,Overall,Gentamicin,41.0
+2023,Klebsiella species,Pus Aspirate,Overall,Ciprofloxacin,62.0
+2023,Klebsiella species,Pus Aspirate,Overall,Co-trimoxazole,49.0
+2023,Klebsiella species,Pus Aspirate,Overall,Colistin,0.24
+2023,Klebsiella species,OSBF,Overall,Co-amoxyclav,38.0
+2023,Klebsiella species,OSBF,Overall,Piperacillin/Tazobactam,48.0
+2023,Klebsiella species,OSBF,Overall,Cefuroxime,71.0
+2023,Klebsiella species,OSBF,Overall,Ceftriaxone,64.0
+2023,Klebsiella species,OSBF,Overall,Cefotaxime,66.0
+2023,Klebsiella species,OSBF,Overall,Cefepime,53.0
+2023,Klebsiella species,OSBF,Overall,Ertapenem,32.0
+2023,Klebsiella species,OSBF,Overall,Imipenem,41.0
+2023,Klebsiella species,OSBF,Overall,Meropenem,38.0
+2023,Klebsiella species,OSBF,Overall,Amikacin,33.0
+2023,Klebsiella species,OSBF,Overall,Gentamicin,40.0
+2023,Klebsiella species,OSBF,Overall,Ciprofloxacin,58.0
+2023,Klebsiella species,OSBF,Overall,Co-trimoxazole,48.0
+2023,Klebsiella species,OSBF,Overall,Colistin,0.68
+2023,Klebsiella species,Urine,Overall,Co-amoxyclav,40.0
+2023,Klebsiella species,Urine,Overall,Piperacillin/Tazobactam,35.0
+2023,Klebsiella species,Urine,Overall,Cefuroxime,57.0
+2023,Klebsiella species,Urine,Overall,Ceftriaxone,55.0
+2023,Klebsiella species,Urine,Overall,Cefotaxime,56.0
+2023,Klebsiella species,Urine,Overall,Cefepime,45.0
+2023,Klebsiella species,Urine,Overall,Ertapenem,24.0
+2023,Klebsiella species,Urine,Overall,Imipenem,23.0
+2023,Klebsiella species,Urine,Overall,Meropenem,24.0
+2023,Klebsiella species,Urine,Overall,Amikacin,28.0
+2023,Klebsiella species,Urine,Overall,Gentamicin,29.0
+2023,Klebsiella species,Urine,Overall,Ciprofloxacin,53.0
+2023,Klebsiella species,Urine,Overall,Co-trimoxazole,41.0
+2023,Klebsiella species,Urine,Overall,Colistin,0.32
+2023,Klebsiella species,Urine,Overall,Nitrofurantoin,47.0
+2023,Klebsiella species,Blood,Overall,ESBL,74.0
+2023,Klebsiella species,Blood,ICU,Amoxicillin/Clavulanic acid,65.0
+2023,Klebsiella species,Blood,ICU,Piperacillin/Tazobactam,63.0
+2023,Klebsiella species,Blood,ICU,Ceftriaxone,78.0
+2023,Klebsiella species,Blood,ICU,Cefotaxime,79.0
+2023,Klebsiella species,Blood,ICU,Cefepime,76.0
+2023,Klebsiella species,Blood,ICU,Ertapenem,50.0
+2023,Klebsiella species,Blood,ICU,Imipenem,48.0
+2023,Klebsiella species,Blood,ICU,Meropenem,49.0
+2023,Klebsiella species,Blood,ICU,Amikacin,56.0
+2023,Klebsiella species,Blood,ICU,Gentamicin,55.0
+2023,Klebsiella species,Blood,ICU,Ciprofloxacin,72.0
+2023,Klebsiella species,Blood,ICU,Co-trimoxazole,61.0
+2023,Klebsiella species,Blood,ICU,Colistin,2.0
+2023,Klebsiella species,Blood,ICU,Doxycycline,23.0
+2023,Klebsiella species,Blood,ICU,Cefuroxime,79.0
+2023,Klebsiella species,Blood,IPD,Amoxicillin/Clavulanic acid,47.0
+2023,Klebsiella species,Blood,IPD,Piperacillin/Tazobactam,55.0
+2023,Klebsiella species,Blood,IPD,Ceftriaxone,64.0
+2023,Klebsiella species,Blood,IPD,Cefotaxime,72.0
+2023,Klebsiella species,Blood,IPD,Cefepime,59.0
+2023,Klebsiella species,Blood,IPD,Ertapenem,38.0
+2023,Klebsiella species,Blood,IPD,Imipenem,38.0
+2023,Klebsiella species,Blood,IPD,Meropenem,41.0
+2023,Klebsiella species,Blood,IPD,Amikacin,43.0
+2023,Klebsiella species,Blood,IPD,Gentamicin,47.0
+2023,Klebsiella species,Blood,IPD,Ciprofloxacin,66.0
+2023,Klebsiella species,Blood,IPD,Co-trimoxazole,48.0
+2023,Klebsiella species,Blood,IPD,Colistin,2.0
+2023,Klebsiella species,Blood,IPD,Doxycycline,19.0
+2023,Klebsiella species,Blood,IPD,Cefuroxime,64.0
+2023,Klebsiella species,Blood,OPD,Amoxicillin/Clavulanic acid,40.0
+2023,Klebsiella species,Blood,OPD,Piperacillin/Tazobactam,35.0
+2023,Klebsiella species,Blood,OPD,Ceftriaxone,46.0
+2023,Klebsiella species,Blood,OPD,Cefotaxime,47.0
+2023,Klebsiella species,Blood,OPD,Cefepime,40.0
+2023,Klebsiella species,Blood,OPD,Ertapenem,30.0
+2023,Klebsiella species,Blood,OPD,Imipenem,26.0
+2023,Klebsiella species,Blood,OPD,Meropenem,27.0
+2023,Klebsiella species,Blood,OPD,Amikacin,29.0
+2023,Klebsiella species,Blood,OPD,Gentamicin,32.0
+2023,Klebsiella species,Blood,OPD,Ciprofloxacin,44.0
+2023,Klebsiella species,Blood,OPD,Co-trimoxazole,36.0
+2023,Klebsiella species,Blood,OPD,Colistin,0.0
+2023,Klebsiella species,Blood,OPD,Doxycycline,7.0
+2023,Klebsiella species,Blood,OPD,Cefuroxime,50.0
+2023,Salmonella Typhi,Blood,Overall,Ampicillin,3.0
+2023,Salmonella Typhi,Blood,Overall,Ceftriaxone,0.0
+2023,Salmonella Typhi,Blood,Overall,Imipenem,0.0
+2023,Salmonella Typhi,Blood,Overall,Ciprofloxacin,61.0
+2023,Salmonella Typhi,Blood,Overall,Azithromycin,0.0
+2023,Salmonella Typhi,Blood,Overall,Chloramphenicol,0.0
+2023,Salmonella Typhi,Blood,Overall,Co-trimoxazole,0.0
+2023,Shigella species,Stool,Overall,Ampicillin,42.0
+2023,Shigella species,Stool,Overall,Ciprofloxacin,91.0
+2023,Shigella species,Stool,Overall,Azithromycin,25.0
+2023,Shigella species,Stool,Overall,Co-trimoxazole,25.0
+2023,Pseudomonas species,Blood,Overall,Piperacillin/Tazobactam,20.0
+2023,Pseudomonas species,Blood,Overall,Ceftazidime,32.0
+2023,Pseudomonas species,Blood,Overall,Aztreonam,20.0
+2023,Pseudomonas species,Blood,Overall,Imipenem,19.0
+2023,Pseudomonas species,Blood,Overall,Meropenem,20.0
+2023,Pseudomonas species,Blood,Overall,Amikacin,21.0
+2023,Pseudomonas species,Blood,Overall,Gentamicin,27.0
+2023,Pseudomonas species,Blood,Overall,Ciprofloxacin,24.0
+2023,Pseudomonas species,Blood,Overall,Colistin,0.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Piperacillin/Tazobactam,22.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Ceftazidime,33.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Aztreonam,20.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Imipenem,15.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Meropenem,13.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Amikacin,18.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Gentamicin,23.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Ciprofloxacin,29.0
+2023,Pseudomonas species,Pus Aspirate,Overall,Colistin,0.4
+2023,Pseudomonas species,Pus Aspirate,Overall,Netilmicin,24.0
+2023,Pseudomonas species,OSBF,Overall,Piperacillin/Tazobactam,32.0
+2023,Pseudomonas species,OSBF,Overall,Ceftazidime,38.0
+2023,Pseudomonas species,OSBF,Overall,Aztreonam,27.0
+2023,Pseudomonas species,OSBF,Overall,Imipenem,41.0
+2023,Pseudomonas species,OSBF,Overall,Meropenem,28.0
+2023,Pseudomonas species,OSBF,Overall,Amikacin,24.0
+2023,Pseudomonas species,OSBF,Overall,Gentamicin,25.0
+2023,Pseudomonas species,OSBF,Overall,Ciprofloxacin,32.0
+2023,Pseudomonas species,OSBF,Overall,Colistin,0.0
+2023,Pseudomonas species,Urine,Overall,Piperacillin/Tazobactam,26.0
+2023,Pseudomonas species,Urine,Overall,Ceftazidime,38.0
+2023,Pseudomonas species,Urine,Overall,Aztreonam,33.0
+2023,Pseudomonas species,Urine,Overall,Imipenem,29.0
+2023,Pseudomonas species,Urine,Overall,Meropenem,26.0
+2023,Pseudomonas species,Urine,Overall,Amikacin,26.0
+2023,Pseudomonas species,Urine,Overall,Gentamicin,27.0
+2023,Pseudomonas species,Urine,Overall,Ciprofloxacin,33.0
+2023,Pseudomonas species,Urine,Overall,Colistin,0.24
+2023,Pseudomonas species,Urine,Overall,Netilmicin,41.0
+2023,Pseudomonas species,Blood,ICU,Piperacillin/Tazobactam,34.0
+2023,Pseudomonas species,Blood,ICU,Ceftazidime,46.0
+2023,Pseudomonas species,Blood,ICU,Aztreonam,32.0
+2023,Pseudomonas species,Blood,ICU,Imipenem,28.0
+2023,Pseudomonas species,Blood,ICU,Meropenem,27.0
+2023,Pseudomonas species,Blood,ICU,Amikacin,26.0
+2023,Pseudomonas species,Blood,ICU,Gentamicin,42.0
+2023,Pseudomonas species,Blood,ICU,Ciprofloxacin,41.0
+2023,Pseudomonas species,Blood,ICU,Colistin,0.0
+2023,Pseudomonas species,Blood,IPD,Piperacillin/Tazobactam,16.0
+2023,Pseudomonas species,Blood,IPD,Ceftazidime,30.0
+2023,Pseudomonas species,Blood,IPD,Aztreonam,24.0
+2023,Pseudomonas species,Blood,IPD,Imipenem,18.0
+2023,Pseudomonas species,Blood,IPD,Meropenem,19.0
+2023,Pseudomonas species,Blood,IPD,Amikacin,23.0
+2023,Pseudomonas species,Blood,IPD,Gentamicin,25.0
+2023,Pseudomonas species,Blood,IPD,Ciprofloxacin,22.0
+2023,Pseudomonas species,Blood,IPD,Colistin,0.0
+2023,Pseudomonas species,Blood,OPD,Piperacillin/Tazobactam,12.0
+2023,Pseudomonas species,Blood,OPD,Ceftazidime,17.0
+2023,Pseudomonas species,Blood,OPD,Aztreonam,0.0
+2023,Pseudomonas species,Blood,OPD,Imipenem,6.0
+2023,Pseudomonas species,Blood,OPD,Meropenem,6.0
+2023,Pseudomonas species,Blood,OPD,Amikacin,8.0
+2023,Pseudomonas species,Blood,OPD,Gentamicin,11.0
+2023,Pseudomonas species,Blood,OPD,Ciprofloxacin,7.0
+2023,Pseudomonas species,Blood,OPD,Colistin,0.0
+2023,Acinetobacter species,Blood,Overall,Ampicillin/Sulbactam,45.0
+2023,Acinetobacter species,Blood,Overall,Piperacillin/Tazobactam,56.0
+2023,Acinetobacter species,Blood,Overall,Ceftazidime,65.0
+2023,Acinetobacter species,Blood,Overall,Imipenem,60.0
+2023,Acinetobacter species,Blood,Overall,Meropenem,53.0
+2023,Acinetobacter species,Blood,Overall,Amikacin,49.0
+2023,Acinetobacter species,Blood,Overall,Gentamicin,51.0
+2023,Acinetobacter species,Blood,Overall,Ciprofloxacin,52.0
+2023,Acinetobacter species,Blood,Overall,Co-trimoxazole,48.0
+2023,Acinetobacter species,Blood,Overall,Colistin,0.34
+2023,Acinetobacter species,Blood,Overall,Minocycline,34.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Ampicillin/Sulbactam,54.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Piperacillin/Tazobactam,71.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Ceftazidime,75.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Imipenem,67.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Meropenem,64.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Amikacin,60.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Gentamicin,67.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Ciprofloxacin,74.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Co-trimoxazole,60.0
+2023,Acinetobacter species,Pus Aspirate,Overall,Colistin,0.24
+2023,Acinetobacter species,Pus Aspirate,Overall,Minocycline,40.0
+2023,Acinetobacter species,OSBF,Overall,Ampicillin/Sulbactam,73.0
+2023,Acinetobacter species,OSBF,Overall,Piperacillin/Tazobactam,67.0
+2023,Acinetobacter species,OSBF,Overall,Ceftazidime,67.0
+2023,Acinetobacter species,OSBF,Overall,Imipenem,76.0
+2023,Acinetobacter species,OSBF,Overall,Meropenem,69.0
+2023,Acinetobacter species,OSBF,Overall,Amikacin,57.0
+2023,Acinetobacter species,OSBF,Overall,Gentamicin,66.0
+2023,Acinetobacter species,OSBF,Overall,Ciprofloxacin,65.0
+2023,Acinetobacter species,OSBF,Overall,Co-trimoxazole,54.0
+2023,Acinetobacter species,OSBF,Overall,Colistin,1.0
+2023,Acinetobacter species,OSBF,Overall,Minocycline,26.0
+2023,Acinetobacter species,Urine,Overall,Ampicillin/Sulbactam,28.0
+2023,Acinetobacter species,Urine,Overall,Piperacillin/Tazobactam,33.0
+2023,Acinetobacter species,Urine,Overall,Ceftazidime,46.0
+2023,Acinetobacter species,Urine,Overall,Imipenem,34.0
+2023,Acinetobacter species,Urine,Overall,Meropenem,32.0
+2023,Acinetobacter species,Urine,Overall,Amikacin,28.0
+2023,Acinetobacter species,Urine,Overall,Gentamicin,30.0
+2023,Acinetobacter species,Urine,Overall,Ciprofloxacin,35.0
+2023,Acinetobacter species,Urine,Overall,Co-trimoxazole,24.0
+2023,Acinetobacter species,Urine,Overall,Colistin,0.0
+2023,Acinetobacter species,Urine,Overall,Minocycline,9.0
+2023,Acinetobacter species,Urine,Overall,Tetracycline,25.0
+2023,Acinetobacter species,Blood,ICU,Ampicillin/Sulbactam,62.0
+2023,Acinetobacter species,Blood,ICU,Piperacillin/Tazobactam,73.0
+2023,Acinetobacter species,Blood,ICU,Ceftazidime,79.0
+2023,Acinetobacter species,Blood,ICU,Imipenem,79.0
+2023,Acinetobacter species,Blood,ICU,Meropenem,69.0
+2023,Acinetobacter species,Blood,ICU,Amikacin,65.0
+2023,Acinetobacter species,Blood,ICU,Gentamicin,69.0
+2023,Acinetobacter species,Blood,ICU,Ciprofloxacin,72.0
+2023,Acinetobacter species,Blood,ICU,Co-trimoxazole,65.0
+2023,Acinetobacter species,Blood,ICU,Colistin,0.0
+2023,Acinetobacter species,Blood,ICU,Minocycline,48.0
+2023,Acinetobacter species,Blood,IPD,Ampicillin/Sulbactam,28.0
+2023,Acinetobacter species,Blood,IPD,Piperacillin/Tazobactam,44.0
+2023,Acinetobacter species,Blood,IPD,Ceftazidime,52.0
+2023,Acinetobacter species,Blood,IPD,Imipenem,46.0
+2023,Acinetobacter species,Blood,IPD,Meropenem,41.0
+2023,Acinetobacter species,Blood,IPD,Amikacin,39.0
+2023,Acinetobacter species,Blood,IPD,Gentamicin,39.0
+2023,Acinetobacter species,Blood,IPD,Ciprofloxacin,37.0
+2023,Acinetobacter species,Blood,IPD,Co-trimoxazole,37.0
+2023,Acinetobacter species,Blood,IPD,Colistin,0.8
+2023,Acinetobacter species,Blood,IPD,Minocycline,18.0
+2023,Acinetobacter species,Blood,OPD,Ampicillin/Sulbactam,42.0
+2023,Acinetobacter species,Blood,OPD,Piperacillin/Tazobactam,43.0
+2023,Acinetobacter species,Blood,OPD,Ceftazidime,58.0
+2023,Acinetobacter species,Blood,OPD,Imipenem,48.0
+2023,Acinetobacter species,Blood,OPD,Meropenem,47.0
+2023,Acinetobacter species,Blood,OPD,Amikacin,33.0
+2023,Acinetobacter species,Blood,OPD,Gentamicin,39.0
+2023,Acinetobacter species,Blood,OPD,Ciprofloxacin,42.0
+2023,Acinetobacter species,Blood,OPD,Co-trimoxazole,35.0
+2023,Acinetobacter species,Blood,OPD,Colistin,0.0
+2023,Acinetobacter species,Blood,OPD,Minocycline,28.0
+2018,Acinetobacter species,All Specimens,Overall,ESBL (Trend),43.5
+2018,Escherichia coli,All Specimens,Overall,ESBL (Trend),52.9
+2018,Klebsiella species,All Specimens,Overall,ESBL (Trend),34.3
+2018,Pseudomonas species,All Specimens,Overall,ESBL (Trend),30.0
+2019,Acinetobacter species,All Specimens,Overall,ESBL (Trend),53.1
+2019,Escherichia coli,All Specimens,Overall,ESBL (Trend),27.4
+2019,Klebsiella species,All Specimens,Overall,ESBL (Trend),26.5
+2021,Acinetobacter species,All Specimens,Overall,ESBL (Trend),67.0
+2021,Escherichia coli,All Specimens,Overall,ESBL (Trend),62.0
+2021,Klebsiella species,All Specimens,Overall,ESBL (Trend),63.0
+2021,Pseudomonas species,All Specimens,Overall,ESBL (Trend),28.0
+2022,Acinetobacter species,All Specimens,Overall,ESBL (Trend),61.8
+2022,Escherichia coli,All Specimens,Overall,ESBL (Trend),62.6
+2022,Klebsiella species,All Specimens,Overall,ESBL (Trend),59.3
+2022,Pseudomonas species,All Specimens,Overall,ESBL (Trend),33.7
+2023,Acinetobacter species,All Specimens,Overall,ESBL (Trend),68.7
+2023,Escherichia coli,All Specimens,Overall,ESBL (Trend),62.0
+2023,Klebsiella species,All Specimens,Overall,ESBL (Trend),60.6
+2023,Pseudomonas species,All Specimens,Overall,ESBL (Trend),34.5
+2018,Acinetobacter species,All Specimens,Overall,Carbapenem Resistance (Trend),32.0
+2018,Escherichia coli,All Specimens,Overall,Carbapenem Resistance (Trend),10.3
+2018,Klebsiella species,All Specimens,Overall,Carbapenem Resistance (Trend),19.9
+2018,Pseudomonas species,All Specimens,Overall,Carbapenem Resistance (Trend),15.9
+2019,Acinetobacter species,All Specimens,Overall,Carbapenem Resistance (Trend),30.0
+2019,Escherichia coli,All Specimens,Overall,Carbapenem Resistance (Trend),4.0
+2019,Klebsiella species,All Specimens,Overall,Carbapenem Resistance (Trend),16.0
+2019,Pseudomonas species,All Specimens,Overall,Carbapenem Resistance (Trend),7.0
+2021,Acinetobacter species,All Specimens,Overall,Carbapenem Resistance (Trend),54.0
+2021,Escherichia coli,All Specimens,Overall,Carbapenem Resistance (Trend),10.0
+2021,Klebsiella species,All Specimens,Overall,Carbapenem Resistance (Trend),32.0
+2021,Pseudomonas species,All Specimens,Overall,Carbapenem Resistance (Trend),14.0
+2022,Acinetobacter species,All Specimens,Overall,Carbapenem Resistance (Trend),52.0
+2022,Escherichia coli,All Specimens,Overall,Carbapenem Resistance (Trend),9.6
+2022,Klebsiella species,All Specimens,Overall,Carbapenem Resistance (Trend),29.3
+2022,Pseudomonas species,All Specimens,Overall,Carbapenem Resistance (Trend),16.1
+2023,Acinetobacter species,All Specimens,Overall,Carbapenem Resistance (Trend),55.0
+2023,Escherichia coli,All Specimens,Overall,Carbapenem Resistance (Trend),7.0
+2023,Klebsiella species,All Specimens,Overall,Carbapenem Resistance (Trend),29.5
+2023,Pseudomonas species,All Specimens,Overall,Carbapenem Resistance (Trend),18.3
+2018,Staphylococcus aureus,All Specimens,Overall,MRSA (Trend),36.7
+2019,Staphylococcus aureus,All Specimens,Overall,MRSA (Trend),39.0
+2021,Staphylococcus aureus,All Specimens,Overall,MRSA (Trend),20.0
+2022,Staphylococcus aureus,All Specimens,Overall,MRSA (Trend),27.5
+2023,Staphylococcus aureus,All Specimens,Overall,MRSA (Trend),29.8
+2018,Enterococcus species,All Specimens,Overall,VRE (Trend),0.6
+2019,Enterococcus species,All Specimens,Overall,VRE (Trend),0.3
+2021,Enterococcus species,All Specimens,Overall,VRE (Trend),5.0
+2022,Enterococcus species,All Specimens,Overall,VRE (Trend),3.3
+2023,Enterococcus species,All Specimens,Overall,VRE (Trend),1.8
+2024,Staphylococcus aureus,Blood,OPD,Vancomycin,0.0
+2024,Staphylococcus aureus,Blood,IPD,Vancomycin,0.0
+2024,Staphylococcus aureus,Blood,ICU,Vancomycin,0.0
+2024,Staphylococcus aureus,Blood,OPD,Doxycycline,0.0
+2024,Staphylococcus aureus,Blood,IPD,Doxycycline,5.2
+2024,Staphylococcus aureus,Blood,ICU,Doxycycline,1.4
+2024,Staphylococcus aureus,Blood,OPD,Teicoplanin,0.0
+2024,Staphylococcus aureus,Blood,IPD,Teicoplanin,1.4
+2024,Staphylococcus aureus,Blood,ICU,Teicoplanin,0.0
+2024,Staphylococcus aureus,Blood,OPD,Linezolid,0.0
+2024,Staphylococcus aureus,Blood,IPD,Linezolid,0.0
+2024,Staphylococcus aureus,Blood,ICU,Linezolid,0.0
+2024,Staphylococcus aureus,Blood,OPD,Erythromycin,58.7
+2024,Staphylococcus aureus,Blood,IPD,Erythromycin,65.9
+2024,Staphylococcus aureus,Blood,ICU,Erythromycin,62.7
+2024,Staphylococcus aureus,Blood,OPD,Clindamycin,29.3
+2024,Staphylococcus aureus,Blood,IPD,Clindamycin,25.5
+2024,Staphylococcus aureus,Blood,ICU,Clindamycin,28.1
+2024,Staphylococcus aureus,Blood,OPD,Trimethoprim/Sulfamethoxazole,6.7
+2024,Staphylococcus aureus,Blood,IPD,Trimethoprim/Sulfamethoxazole,16.2
+2024,Staphylococcus aureus,Blood,ICU,Trimethoprim/Sulfamethoxazole,13.3
+2024,Staphylococcus aureus,Blood,OPD,Ciprofloxacin,56.4
+2024,Staphylococcus aureus,Blood,IPD,Ciprofloxacin,44.1
+2024,Staphylococcus aureus,Blood,ICU,Ciprofloxacin,46.6
+2024,Staphylococcus aureus,Blood,OPD,Gentamicin,15.0
+2024,Staphylococcus aureus,Blood,IPD,Gentamicin,19.0
+2024,Staphylococcus aureus,Blood,ICU,Gentamicin,18.8
+2024,Staphylococcus aureus,Blood,OPD,Amikacin,5.3
+2024,Staphylococcus aureus,Blood,IPD,Amikacin,10.2
+2024,Staphylococcus aureus,Blood,ICU,Amikacin,0.0
+2024,Staphylococcus aureus,Blood,OPD,Cefoxitin,39.4
+2024,Staphylococcus aureus,Blood,IPD,Cefoxitin,33.8
+2024,Staphylococcus aureus,Blood,ICU,Cefoxitin,31.1
+2024,Staphylococcus aureus,Pus Aspirate,All,Cefoxitin,29.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Gentamicin,13.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Ciprofloxacin,47.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,8.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Clindamycin,18.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Erythromycin,53.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Linezolid,0.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Teicoplanin,1.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Doxycycline,1.0
+2024,Staphylococcus aureus,Pus Aspirate,All,Vancomycin,0.0
+2024,Staphylococcus aureus,OSBF,All,Cefoxitin,33.0
+2024,Staphylococcus aureus,OSBF,All,Gentamicin,23.0
+2024,Staphylococcus aureus,OSBF,All,Ciprofloxacin,45.0
+2024,Staphylococcus aureus,OSBF,All,Trimethoprim/Sulfamethoxazole,5.0
+2024,Staphylococcus aureus,OSBF,All,Clindamycin,26.0
+2024,Staphylococcus aureus,OSBF,All,Erythromycin,61.0
+2024,Staphylococcus aureus,OSBF,All,Linezolid,0.0
+2024,Staphylococcus aureus,OSBF,All,Teicoplanin,
+2024,Staphylococcus aureus,OSBF,All,Doxycycline,
+2024,Staphylococcus aureus,OSBF,All,Vancomycin,0.0
+2024,Enterococcus species,Blood,OPD,Doxycycline,30.0
+2024,Enterococcus species,Blood,IPD,Doxycycline,42.1
+2024,Enterococcus species,Blood,ICU,Doxycycline,52.4
+2024,Enterococcus species,Blood,OPD,Teicoplanin,0.0
+2024,Enterococcus species,Blood,IPD,Teicoplanin,7.5
+2024,Enterococcus species,Blood,ICU,Teicoplanin,3.1
+2024,Enterococcus species,Blood,OPD,Vancomycin,0.0
+2024,Enterococcus species,Blood,IPD,Vancomycin,4.6
+2024,Enterococcus species,Blood,ICU,Vancomycin,1.8
+2024,Enterococcus species,Blood,OPD,Linezolid,0.0
+2024,Enterococcus species,Blood,IPD,Linezolid,0.0
+2024,Enterococcus species,Blood,ICU,Linezolid,0.0
+2024,Enterococcus species,Blood,OPD,Erythromycin,71.4
+2024,Enterococcus species,Blood,IPD,Erythromycin,81.2
+2024,Enterococcus species,Blood,ICU,Erythromycin,76.9
+2024,Enterococcus species,Blood,OPD,Gentamicin-High,30.0
+2024,Enterococcus species,Blood,IPD,Gentamicin-High,27.7
+2024,Enterococcus species,Blood,ICU,Gentamicin-High,32.0
+2024,Enterococcus species,Blood,OPD,Ampicillin,20.0
+2024,Enterococcus species,Blood,IPD,Ampicillin,36.5
+2024,Enterococcus species,Blood,ICU,Ampicillin,41.6
+2024,Enterococcus species,Pus Aspirate,All,Ampicillin,19.0
+2024,Enterococcus species,Pus Aspirate,All,Gentamicin-HLAR,22.0
+2024,Enterococcus species,Pus Aspirate,All,Erythromycin,72.0
+2024,Enterococcus species,Pus Aspirate,All,Linezolid,0.1
+2024,Enterococcus species,Pus Aspirate,All,Vancomycin,1.0
+2024,Enterococcus species,Pus Aspirate,All,Teicoplanin,2.0
+2024,Enterococcus species,Pus Aspirate,All,Doxycycline,23.0
+2024,Enterococcus species,Pus Aspirate,All,Tetracycline,74.0
+2024,Enterococcus species,OSBF,All,Ampicillin,46.0
+2024,Enterococcus species,OSBF,All,Gentamicin-HLAR,33.0
+2024,Enterococcus species,OSBF,All,Erythromycin,68.0
+2024,Enterococcus species,OSBF,All,Linezolid,0.0
+2024,Enterococcus species,OSBF,All,Vancomycin,0.0
+2024,Enterococcus species,OSBF,All,Doxycycline,50.0
+2024,Enterococcus species,Urine,All,Ampicillin,42.0
+2024,Enterococcus species,Urine,All,Gentamicin-HLAR,35.0
+2024,Enterococcus species,Urine,All,Ciprofloxacin,71.0
+2024,Enterococcus species,Urine,All,Linezolid,0.1
+2024,Enterococcus species,Urine,All,Vancomycin,2.0
+2024,Enterococcus species,Urine,All,Teicoplanin,2.0
+2024,Enterococcus species,Urine,All,Fosfomycin,28.0
+2024,Enterococcus species,Urine,All,Tetracycline,70.0
+2024,Enterococcus species,Urine,All,Nitrofurantoin,30.0
+2024,Escherichia coli,Blood,OPD,Cefuroxime,66.7
+2024,Escherichia coli,Blood,IPD,Cefuroxime,73.3
+2024,Escherichia coli,Blood,ICU,Cefuroxime,71.2
+2024,Escherichia coli,Blood,OPD,Colistin,0.0
+2024,Escherichia coli,Blood,IPD,Colistin,0.0
+2024,Escherichia coli,Blood,ICU,Colistin,0.5
+2024,Escherichia coli,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.3
+2024,Escherichia coli,Blood,IPD,Trimethoprim/Sulfamethoxazole,51.9
+2024,Escherichia coli,Blood,ICU,Trimethoprim/Sulfamethoxazole,40.8
+2024,Escherichia coli,Blood,OPD,Ciprofloxacin,53.8
+2024,Escherichia coli,Blood,IPD,Ciprofloxacin,70.3
+2024,Escherichia coli,Blood,ICU,Ciprofloxacin,62.6
+2024,Escherichia coli,Blood,OPD,Gentamicin,24.6
+2024,Escherichia coli,Blood,IPD,Gentamicin,31.4
+2024,Escherichia coli,Blood,ICU,Gentamicin,27.6
+2024,Escherichia coli,Blood,OPD,Amikacin,17.6
+2024,Escherichia coli,Blood,IPD,Amikacin,15.9
+2024,Escherichia coli,Blood,ICU,Amikacin,13.0
+2024,Escherichia coli,Blood,OPD,Meropenem,8.3
+2024,Escherichia coli,Blood,IPD,Meropenem,11.2
+2024,Escherichia coli,Blood,ICU,Meropenem,11.3
+2024,Escherichia coli,Blood,OPD,Imipenem,6.2
+2024,Escherichia coli,Blood,IPD,Imipenem,11.7
+2024,Escherichia coli,Blood,ICU,Imipenem,11.3
+2024,Escherichia coli,Blood,OPD,Ertapenem,3.8
+2024,Escherichia coli,Blood,IPD,Ertapenem,12.4
+2024,Escherichia coli,Blood,ICU,Ertapenem,14.3
+2024,Escherichia coli,Blood,OPD,Cefepime,50.0
+2024,Escherichia coli,Blood,IPD,Cefepime,53.4
+2024,Escherichia coli,Blood,ICU,Cefepime,54.6
+2024,Escherichia coli,Blood,OPD,Cefotaxime,64.7
+2024,Escherichia coli,Blood,IPD,Cefotaxime,69.2
+2024,Escherichia coli,Blood,ICU,Cefotaxime,74.4
+2024,Escherichia coli,Blood,OPD,Ceftriaxone,59.6
+2024,Escherichia coli,Blood,IPD,Ceftriaxone,67.8
+2024,Escherichia coli,Blood,ICU,Ceftriaxone,72.3
+2024,Escherichia coli,Blood,OPD,Piperacillin/Tazobactam,14.9
+2024,Escherichia coli,Blood,IPD,Piperacillin/Tazobactam,21.7
+2024,Escherichia coli,Blood,ICU,Piperacillin/Tazobactam,20.5
+2024,Escherichia coli,Blood,OPD,Amoxicillin/Clavulanic acid,29.2
+2024,Escherichia coli,Blood,IPD,Amoxicillin/Clavulanic acid,32.7
+2024,Escherichia coli,Blood,ICU,Amoxicillin/Clavulanic acid,34.8
+2024,Escherichia coli,Blood,OPD,Ampicillin,75.7
+2024,Escherichia coli,Blood,IPD,Ampicillin,86.6
+2024,Escherichia coli,Blood,ICU,Ampicillin,95.8
+2024,Escherichia coli,Pus Aspirate,All,Ampicillin,89.0
+2024,Escherichia coli,Pus Aspirate,All,Amoxicillin/Clavulanic acid,38.0
+2024,Escherichia coli,Pus Aspirate,All,Piperacillin/Tazobactam,21.0
+2024,Escherichia coli,Pus Aspirate,All,Cefuroxime,68.0
+2024,Escherichia coli,Pus Aspirate,All,Ceftriaxone,66.0
+2024,Escherichia coli,Pus Aspirate,All,Cefotaxime,65.0
+2024,Escherichia coli,Pus Aspirate,All,Cefepime,46.0
+2024,Escherichia coli,Pus Aspirate,All,Ertapenem,12.0
+2024,Escherichia coli,Pus Aspirate,All,Imipenem,11.0
+2024,Escherichia coli,Pus Aspirate,All,Meropenem,9.0
+2024,Escherichia coli,Pus Aspirate,All,Amikacin,16.0
+2024,Escherichia coli,Pus Aspirate,All,Gentamicin,26.0
+2024,Escherichia coli,Pus Aspirate,All,Ciprofloxacin,60.0
+2024,Escherichia coli,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,44.0
+2024,Escherichia coli,Pus Aspirate,All,Colistin,0.0
+2024,Escherichia coli,Pus Aspirate,All,Doxycycline,27.0
+2024,Escherichia coli,OSBF,All,Ampicillin,87.0
+2024,Escherichia coli,OSBF,All,Amoxicillin/Clavulanic acid,37.0
+2024,Escherichia coli,OSBF,All,Piperacillin/Tazobactam,25.0
+2024,Escherichia coli,OSBF,All,Cefuroxime,64.0
+2024,Escherichia coli,OSBF,All,Ceftriaxone,64.0
+2024,Escherichia coli,OSBF,All,Cefotaxime,63.0
+2024,Escherichia coli,OSBF,All,Cefepime,44.0
+2024,Escherichia coli,OSBF,All,Ertapenem,21.0
+2024,Escherichia coli,OSBF,All,Imipenem,20.0
+2024,Escherichia coli,OSBF,All,Meropenem,16.0
+2024,Escherichia coli,OSBF,All,Amikacin,19.0
+2024,Escherichia coli,OSBF,All,Gentamicin,31.0
+2024,Escherichia coli,OSBF,All,Ciprofloxacin,62.0
+2024,Escherichia coli,OSBF,All,Trimethoprim/Sulfamethoxazole,39.0
+2024,Escherichia coli,OSBF,All,Colistin,0.0
+2024,Escherichia coli,Urine,All,Ampicillin,85.0
+2024,Escherichia coli,Urine,All,Amoxicillin/Clavulanic acid,28.0
+2024,Escherichia coli,Urine,All,Piperacillin/Tazobactam,15.0
+2024,Escherichia coli,Urine,All,Cefuroxime,61.0
+2024,Escherichia coli,Urine,All,Ceftriaxone,64.0
+2024,Escherichia coli,Urine,All,Cefotaxime,61.0
+2024,Escherichia coli,Urine,All,Cefepime,45.0
+2024,Escherichia coli,Urine,All,Ertapenem,6.0
+2024,Escherichia coli,Urine,All,Imipenem,7.0
+2024,Escherichia coli,Urine,All,Meropenem,6.0
+2024,Escherichia coli,Urine,All,Amikacin,12.0
+2024,Escherichia coli,Urine,All,Gentamicin,20.0
+2024,Escherichia coli,Urine,All,Ciprofloxacin,54.0
+2024,Escherichia coli,Urine,All,Trimethoprim/Sulfamethoxazole,39.0
+2024,Escherichia coli,Urine,All,Colistin,0.04
+2024,Escherichia coli,Urine,All,Fosfomycin,2.0
+2024,Escherichia coli,Urine,All,Nitrofurantoin,10.0
+2024,Klebsiella species,Blood,OPD,Cefuroxime,50.0
+2024,Klebsiella species,Blood,IPD,Cefuroxime,63.8
+2024,Klebsiella species,Blood,ICU,Cefuroxime,78.5
+2024,Klebsiella species,Blood,OPD,Doxycycline,7.4
+2024,Klebsiella species,Blood,IPD,Doxycycline,18.8
+2024,Klebsiella species,Blood,ICU,Doxycycline,23.1
+2024,Klebsiella species,Blood,OPD,Colistin,0.0
+2024,Klebsiella species,Blood,IPD,Colistin,1.9
+2024,Klebsiella species,Blood,ICU,Colistin,2.4
+2024,Klebsiella species,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.5
+2024,Klebsiella species,Blood,IPD,Trimethoprim/Sulfamethoxazole,48.4
+2024,Klebsiella species,Blood,ICU,Trimethoprim/Sulfamethoxazole,61.4
+2024,Klebsiella species,Blood,OPD,Ciprofloxacin,44.0
+2024,Klebsiella species,Blood,IPD,Ciprofloxacin,66.0
+2024,Klebsiella species,Blood,ICU,Ciprofloxacin,71.5
+2024,Klebsiella species,Blood,OPD,Gentamicin,32.1
+2024,Klebsiella species,Blood,IPD,Gentamicin,47.3
+2024,Klebsiella species,Blood,ICU,Gentamicin,54.9
+2024,Klebsiella species,Blood,OPD,Amikacin,28.9
+2024,Klebsiella species,Blood,IPD,Amikacin,42.8
+2024,Klebsiella species,Blood,ICU,Amikacin,56.4
+2024,Klebsiella species,Blood,OPD,Meropenem,27.0
+2024,Klebsiella species,Blood,IPD,Meropenem,40.8
+2024,Klebsiella species,Blood,ICU,Meropenem,48.7
+2024,Klebsiella species,Blood,OPD,Imipenem,26.4
+2024,Klebsiella species,Blood,IPD,Imipenem,37.8
+2024,Klebsiella species,Blood,ICU,Imipenem,47.5
+2024,Klebsiella species,Blood,OPD,Ertapenem,29.6
+2024,Klebsiella species,Blood,IPD,Ertapenem,38.2
+2024,Klebsiella species,Blood,ICU,Ertapenem,50.0
+2024,Klebsiella species,Blood,OPD,Cefepime,40.3
+2024,Klebsiella species,Blood,IPD,Cefepime,58.5
+2024,Klebsiella species,Blood,ICU,Cefepime,76.2
+2024,Klebsiella species,Blood,OPD,Cefotaxime,46.7
+2024,Klebsiella species,Blood,IPD,Cefotaxime,71.7
+2024,Klebsiella species,Blood,ICU,Cefotaxime,79.3
+2024,Klebsiella species,Blood,OPD,Ceftriaxone,46.0
+2024,Klebsiella species,Blood,IPD,Ceftriaxone,63.8
+2024,Klebsiella species,Blood,ICU,Ceftriaxone,77.7
+2024,Klebsiella species,Blood,OPD,Piperacillin/Tazobactam,34.6
+2024,Klebsiella species,Blood,IPD,Piperacillin/Tazobactam,55.1
+2024,Klebsiella species,Blood,ICU,Piperacillin/Tazobactam,62.5
+2024,Klebsiella species,Blood,OPD,Amoxicillin/Clavulanic acid,40.0
+2024,Klebsiella species,Blood,IPD,Amoxicillin/Clavulanic acid,46.5
+2024,Klebsiella species,Blood,ICU,Amoxicillin/Clavulanic acid,64.5
+2024,Klebsiella species,Pus Aspirate,All,Amoxicillin/Clavulanic acid,52.0
+2024,Klebsiella species,Pus Aspirate,All,Piperacillin/Tazobactam,45.0
+2024,Klebsiella species,Pus Aspirate,All,Cefuroxime,67.0
+2024,Klebsiella species,Pus Aspirate,All,Ceftriaxone,62.0
+2024,Klebsiella species,Pus Aspirate,All,Cefotaxime,64.0
+2024,Klebsiella species,Pus Aspirate,All,Cefepime,56.0
+2024,Klebsiella species,Pus Aspirate,All,Ertapenem,38.0
+2024,Klebsiella species,Pus Aspirate,All,Imipenem,35.0
+2024,Klebsiella species,Pus Aspirate,All,Meropenem,41.0
+2024,Klebsiella species,Pus Aspirate,All,Amikacin,36.0
+2024,Klebsiella species,Pus Aspirate,All,Gentamicin,41.0
+2024,Klebsiella species,Pus Aspirate,All,Ciprofloxacin,62.0
+2024,Klebsiella species,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,49.0
+2024,Klebsiella species,Pus Aspirate,All,Colistin,0.24
+2024,Klebsiella species,Pus Aspirate,All,Doxycycline,18.0
+2024,Klebsiella species,OSBF,All,Amoxicillin/Clavulanic acid,38.0
+2024,Klebsiella species,OSBF,All,Piperacillin/Tazobactam,48.0
+2024,Klebsiella species,OSBF,All,Cefuroxime,71.0
+2024,Klebsiella species,OSBF,All,Ceftriaxone,64.0
+2024,Klebsiella species,OSBF,All,Cefotaxime,66.0
+2024,Klebsiella species,OSBF,All,Cefepime,53.0
+2024,Klebsiella species,OSBF,All,Ertapenem,32.0
+2024,Klebsiella species,OSBF,All,Imipenem,41.0
+2024,Klebsiella species,OSBF,All,Meropenem,38.0
+2024,Klebsiella species,OSBF,All,Amikacin,33.0
+2024,Klebsiella species,OSBF,All,Gentamicin,40.0
+2024,Klebsiella species,OSBF,All,Ciprofloxacin,58.0
+2024,Klebsiella species,OSBF,All,Trimethoprim/Sulfamethoxazole,48.0
+2024,Klebsiella species,OSBF,All,Colistin,0.68
+2024,Klebsiella species,Urine,All,Amoxicillin/Clavulanic acid,40.0
+2024,Klebsiella species,Urine,All,Piperacillin/Tazobactam,35.0
+2024,Klebsiella species,Urine,All,Cefuroxime,57.0
+2024,Klebsiella species,Urine,All,Ceftriaxone,55.0
+2024,Klebsiella species,Urine,All,Cefotaxime,56.0
+2024,Klebsiella species,Urine,All,Cefepime,45.0
+2024,Klebsiella species,Urine,All,Ertapenem,24.0
+2024,Klebsiella species,Urine,All,Imipenem,23.0
+2024,Klebsiella species,Urine,All,Meropenem,24.0
+2024,Klebsiella species,Urine,All,Amikacin,28.0
+2024,Klebsiella species,Urine,All,Gentamicin,29.0
+2024,Klebsiella species,Urine,All,Ciprofloxacin,53.0
+2024,Klebsiella species,Urine,All,Trimethoprim/Sulfamethoxazole,41.0
+2024,Klebsiella species,Urine,All,Colistin,0.32
+2024,Klebsiella species,Urine,All,Nitrofurantoin,47.0
+2024,Salmonella Typhi,All,All,Ampicillin,3.0
+2024,Salmonella Typhi,All,All,Ceftriaxone,0.0
+2024,Salmonella Typhi,All,All,Imipenem,0.0
+2024,Salmonella Typhi,All,All,Ciprofloxacin,61.0
+2024,Salmonella Typhi,All,All,Azithromycin,0.0
+2024,Salmonella Typhi,All,All,Chloramphenicol,0.0
+2024,Salmonella Typhi,All,All,Trimethoprim/Sulfamethoxazole,0.0
+2024,Salmonella Paratyphi,All,All,Ampicillin,
+2024,Salmonella Paratyphi,All,All,Ceftriaxone,
+2024,Salmonella Paratyphi,All,All,Imipenem,
+2024,Salmonella Paratyphi,All,All,Ciprofloxacin,
+2024,Salmonella Paratyphi,All,All,Azithromycin,
+2024,Salmonella Paratyphi,All,All,Chloramphenicol,
+2024,Salmonella Paratyphi,All,All,Trimethoprim/Sulfamethoxazole,0.0
+2024,Shigella species,All,All,Ampicillin,42.0
+2024,Shigella species,All,All,Ceftriaxone,
+2024,Shigella species,All,All,Ciprofloxacin,91.0
+2024,Shigella species,All,All,Azithromycin,25.0
+2024,Shigella species,All,All,Chloramphenicol,
+2024,Shigella species,All,All,Trimethoprim/Sulfamethoxazole,25.0
+2024,Pseudomonas species,Blood,OPD,Colistin,0.0
+2024,Pseudomonas species,Blood,IPD,Colistin,0.0
+2024,Pseudomonas species,Blood,ICU,Colistin,0.0
+2024,Pseudomonas species,Blood,OPD,Ciprofloxacin,7.1
+2024,Pseudomonas species,Blood,IPD,Ciprofloxacin,21.5
+2024,Pseudomonas species,Blood,ICU,Ciprofloxacin,40.6
+2024,Pseudomonas species,Blood,OPD,Gentamicin,11.1
+2024,Pseudomonas species,Blood,IPD,Gentamicin,24.8
+2024,Pseudomonas species,Blood,ICU,Gentamicin,41.5
+2024,Pseudomonas species,Blood,OPD,Amikacin,7.9
+2024,Pseudomonas species,Blood,IPD,Amikacin,23.1
+2024,Pseudomonas species,Blood,ICU,Amikacin,25.8
+2024,Pseudomonas species,Blood,OPD,Meropenem,6.1
+2024,Pseudomonas species,Blood,IPD,Meropenem,19.2
+2024,Pseudomonas species,Blood,ICU,Meropenem,27.4
+2024,Pseudomonas species,Blood,OPD,Imipenem,5.9
+2024,Pseudomonas species,Blood,IPD,Imipenem,18.3
+2024,Pseudomonas species,Blood,ICU,Imipenem,27.9
+2024,Pseudomonas species,Blood,OPD,Aztreonam,0.0
+2024,Pseudomonas species,Blood,IPD,Aztreonam,24.0
+2024,Pseudomonas species,Blood,ICU,Aztreonam,31.6
+2024,Pseudomonas species,Blood,OPD,Ceftazidime,16.7
+2024,Pseudomonas species,Blood,IPD,Ceftazidime,29.8
+2024,Pseudomonas species,Blood,ICU,Ceftazidime,46.2
+2024,Pseudomonas species,Blood,OPD,Piperacillin/Tazobactam,12.2
+2024,Pseudomonas species,Blood,IPD,Piperacillin/Tazobactam,16.0
+2024,Pseudomonas species,Blood,ICU,Piperacillin/Tazobactam,34.2
+2024,Pseudomonas species,Pus Aspirate,All,Piperacillin/Tazobactam,22.0
+2024,Pseudomonas species,Pus Aspirate,All,Ceftazidime,33.0
+2024,Pseudomonas species,Pus Aspirate,All,Aztreonam,20.0
+2024,Pseudomonas species,Pus Aspirate,All,Imipenem,15.0
+2024,Pseudomonas species,Pus Aspirate,All,Meropenem,13.0
+2024,Pseudomonas species,Pus Aspirate,All,Amikacin,18.0
+2024,Pseudomonas species,Pus Aspirate,All,Gentamicin,23.0
+2024,Pseudomonas species,Pus Aspirate,All,Ciprofloxacin,29.0
+2024,Pseudomonas species,Pus Aspirate,All,Colistin,0.4
+2024,Pseudomonas species,Pus Aspirate,All,Netilmicin,24.0
+2024,Pseudomonas species,OSBF,All,Piperacillin/Tazobactam,32.0
+2024,Pseudomonas species,OSBF,All,Ceftazidime,38.0
+2024,Pseudomonas species,OSBF,All,Aztreonam,27.0
+2024,Pseudomonas species,OSBF,All,Imipenem,41.0
+2024,Pseudomonas species,OSBF,All,Meropenem,28.0
+2024,Pseudomonas species,OSBF,All,Amikacin,24.0
+2024,Pseudomonas species,OSBF,All,Gentamicin,25.0
+2024,Pseudomonas species,OSBF,All,Ciprofloxacin,32.0
+2024,Pseudomonas species,OSBF,All,Colistin,0.0
+2024,Pseudomonas species,OSBF,All,Netilmicin,
+2024,Pseudomonas species,Urine,All,Piperacillin/Tazobactam,26.0
+2024,Pseudomonas species,Urine,All,Ceftazidime,38.0
+2024,Pseudomonas species,Urine,All,Aztreonam,33.0
+2024,Pseudomonas species,Urine,All,Imipenem,29.0
+2024,Pseudomonas species,Urine,All,Meropenem,26.0
+2024,Pseudomonas species,Urine,All,Amikacin,26.0
+2024,Pseudomonas species,Urine,All,Gentamicin,27.0
+2024,Pseudomonas species,Urine,All,Ciprofloxacin,33.0
+2024,Pseudomonas species,Urine,All,Colistin,0.24
+2024,Pseudomonas species,Urine,All,Netilmicin,41.0
+2024,Acinetobacter species,Blood,OPD,Minocycline,27.6
+2024,Acinetobacter species,Blood,IPD,Minocycline,17.6
+2024,Acinetobacter species,Blood,ICU,Minocycline,48.2
+2024,Acinetobacter species,Blood,OPD,Colistin,0.0
+2024,Acinetobacter species,Blood,IPD,Colistin,0.8
+2024,Acinetobacter species,Blood,ICU,Colistin,0.0
+2024,Acinetobacter species,Blood,OPD,Trimethoprim/Sulfamethoxazole,35.1
+2024,Acinetobacter species,Blood,IPD,Trimethoprim/Sulfamethoxazole,36.5
+2024,Acinetobacter species,Blood,ICU,Trimethoprim/Sulfamethoxazole,65.2
+2024,Acinetobacter species,Blood,OPD,Ciprofloxacin,42.4
+2024,Acinetobacter species,Blood,IPD,Ciprofloxacin,36.8
+2024,Acinetobacter species,Blood,ICU,Ciprofloxacin,71.7
+2024,Acinetobacter species,Blood,OPD,Gentamicin,39.3
+2024,Acinetobacter species,Blood,IPD,Gentamicin,39.2
+2024,Acinetobacter species,Blood,ICU,Gentamicin,69.2
+2024,Acinetobacter species,Blood,OPD,Amikacin,33.3
+2024,Acinetobacter species,Blood,IPD,Amikacin,38.7
+2024,Acinetobacter species,Blood,ICU,Amikacin,64.6
+2024,Acinetobacter species,Blood,OPD,Meropenem,47.1
+2024,Acinetobacter species,Blood,IPD,Meropenem,41.3
+2024,Acinetobacter species,Blood,ICU,Meropenem,68.5
+2024,Acinetobacter species,Blood,OPD,Imipenem,48.1
+2024,Acinetobacter species,Blood,IPD,Imipenem,46.2
+2024,Acinetobacter species,Blood,ICU,Imipenem,78.6
+2024,Acinetobacter species,Blood,OPD,Ceftazidime,58.3
+2024,Acinetobacter species,Blood,IPD,Ceftazidime,51.8
+2024,Acinetobacter species,Blood,ICU,Ceftazidime,78.9
+2024,Acinetobacter species,Blood,OPD,Piperacillin/Tazobactam,43.3
+2024,Acinetobacter species,Blood,IPD,Piperacillin/Tazobactam,44.2
+2024,Acinetobacter species,Blood,ICU,Piperacillin/Tazobactam,72.8
+2024,Acinetobacter species,Blood,OPD,Ampicillin/Sulbactam,41.7
+2024,Acinetobacter species,Blood,IPD,Ampicillin/Sulbactam,27.5
+2024,Acinetobacter species,Blood,ICU,Ampicillin/Sulbactam,61.9
+2024,Acinetobacter species,Pus Aspirate,All,Ampicillin/Sulbactam,54.0
+2024,Acinetobacter species,Pus Aspirate,All,Piperacillin/Tazobactam,71.0
+2024,Acinetobacter species,Pus Aspirate,All,Ceftazidime,75.0
+2024,Acinetobacter species,Pus Aspirate,All,Imipenem,67.0
+2024,Acinetobacter species,Pus Aspirate,All,Meropenem,64.0
+2024,Acinetobacter species,Pus Aspirate,All,Amikacin,60.0
+2024,Acinetobacter species,Pus Aspirate,All,Gentamicin,67.0
+2024,Acinetobacter species,Pus Aspirate,All,Ciprofloxacin,74.0
+2024,Acinetobacter species,Pus Aspirate,All,Trimethoprim/Sulfamethoxazole,60.0
+2024,Acinetobacter species,Pus Aspirate,All,Colistin,0.24
+2024,Acinetobacter species,Pus Aspirate,All,Minocycline,40.0
+2024,Acinetobacter species,Pus Aspirate,All,Tetracycline,25.0
+2024,Acinetobacter species,OSBF,All,Ampicillin/Sulbactam,41.0
+2024,Acinetobacter species,OSBF,All,Piperacillin/Tazobactam,67.0
+2024,Acinetobacter species,OSBF,All,Ceftazidime,67.0
+2024,Acinetobacter species,OSBF,All,Imipenem,76.0
+2024,Acinetobacter species,OSBF,All,Meropenem,69.0
+2024,Acinetobacter species,OSBF,All,Amikacin,57.0
+2024,Acinetobacter species,OSBF,All,Gentamicin,66.0
+2024,Acinetobacter species,OSBF,All,Ciprofloxacin,65.0
+2024,Acinetobacter species,OSBF,All,Trimethoprim/Sulfamethoxazole,54.0
+2024,Acinetobacter species,OSBF,All,Colistin,1.0
+2024,Acinetobacter species,OSBF,All,Minocycline,26.0
+2024,Acinetobacter species,Urine,All,Ampicillin/Sulbactam,28.0
+2024,Acinetobacter species,Urine,All,Piperacillin/Tazobactam,33.0
+2024,Acinetobacter species,Urine,All,Ceftazidime,46.0
+2024,Acinetobacter species,Urine,All,Imipenem,34.0
+2024,Acinetobacter species,Urine,All,Meropenem,32.0
+2024,Acinetobacter species,Urine,All,Amikacin,28.0
+2024,Acinetobacter species,Urine,All,Gentamicin,30.0
+2024,Acinetobacter species,Urine,All,Ciprofloxacin,35.0
+2024,Acinetobacter species,Urine,All,Trimethoprim/Sulfamethoxazole,24.0
+2024,Acinetobacter species,Urine,All,Colistin,0.0
+2024,Acinetobacter species,Urine,All,Minocycline,9.0
